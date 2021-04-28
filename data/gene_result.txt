@@ -1,0 +1,1491 @@
+
+1. ABO
+Official Symbol: ABO and Name: ABO, alpha 1-3-N-acetylgalactosaminyltransferase and alpha 1-3-galactosyltransferase [Homo sapiens (human)]
+Other Aliases: A3GALNT, A3GALT1, GTB, NAGAT
+Other Designations: histo-blood group ABO system transferase; ABO blood group (transferase A, alpha 1-3-N-acetylgalactosaminyltransferase; transferase B, alpha 1-3-galactosyltransferase); B(A) alpha-1,3-galactosyltransferase; histo-blood group A2 transferase
+Chromosome: 9; Location: 9q34.2
+Annotation: Chromosome 9 NC_000009.12 (133250401..133275201, complement)
+MIM: 110300
+ID: 28
+
+2. ACE
+Official Symbol: ACE and Name: angiotensin I converting enzyme [Homo sapiens (human)]
+Other Aliases: ACE1, CD143, DCP, DCP1
+Other Designations: angiotensin-converting enzyme; CD143 antigen; angiotensin I converting enzyme (peptidyl-dipeptidase A) 1; carboxycathepsin; dipeptidyl carboxypeptidase 1; dipeptidyl carboxypeptidase I; kininase II; peptidase P
+Chromosome: 17; Location: 17q23.3
+Annotation: Chromosome 17 NC_000017.11 (63477061..63498373)
+MIM: 106180
+ID: 1636
+
+3. ACE2
+Official Symbol: ACE2 and Name: angiotensin converting enzyme 2 [Homo sapiens (human)]
+Other Aliases: ACEH
+Other Designations: angiotensin-converting enzyme 2; ACE-related carboxypeptidase; angiotensin I converting enzyme (peptidyl-dipeptidase A) 2; angiotensin I converting enzyme 2; angiotensin-converting enzyme homolog; angiotensin-converting enzyme-related carboxypeptidase; metalloprotease MPROT15; peptidyl-dipeptidase A; truncated angiotensin converting enzyme 2
+Chromosome: X; Location: Xp22.2
+Annotation: Chromosome X NC_000023.11 (15518197..15607211, complement)
+MIM: 300335
+ID: 59272
+
+4. Ace2
+Official Symbol: Ace2 and Name: angiotensin I converting enzyme (peptidyl-dipeptidase A) 2 [Mus musculus (house mouse)]
+Other Aliases: 2010305L05Rik
+Other Designations: angiotensin-converting enzyme 2; ACE-related carboxypeptidase; angiotensin I converting enzyme 2
+Chromosome: X; Location: X 76.12 cM
+Annotation: Chromosome X NC_000086.8 (162922338..162971414)
+ID: 70008
+
+5. Ace2
+Official Symbol: Ace2 and Name: angiotensin I converting enzyme 2 [Rattus norvegicus (Norway rat)]
+Other Designations: angiotensin-converting enzyme 2; ACE-related carboxypeptidase; angiotensin I converting enzyme (peptidyl-dipeptidase A) 2; anigotensin-converting enzyme-related carboxypeptidase; renal angiotensin-converting enzyme 2
+Chromosome: X; Location: Xq14
+Annotation: Chromosome X NC_051356.1 (30293597..30340961, complement)
+ID: 302668
+
+6. ACE2
+angiotensin converting enzyme 2 [Chlorocebus sabaeus (green monkey)]
+Other Designations: angiotensin-converting enzyme 2; angiotensin I converting enzyme 2
+Chromosome: Un
+ID: 103231639
+
+7. ADAM17
+Official Symbol: ADAM17 and Name: ADAM metallopeptidase domain 17 [Homo sapiens (human)]
+Other Aliases: ADAM18, CD156B, CSVP, NISBD, NISBD1, TACE
+Other Designations: disintegrin and metalloproteinase domain-containing protein 17; ADAM metallopeptidase domain 18; TNF-alpha convertase; TNF-alpha convertase enzyme; TNF-alpha converting enzyme; a disintegrin and metalloproteinase 17; cartilage snake venom-like protease; snake venom-like protease; tumor necrosis factor, alpha, converting enzyme
+Chromosome: 2; Location: 2p25.1
+Annotation: Chromosome 2 NC_000002.12 (9488486..9555830, complement)
+MIM: 603639
+ID: 6868
+
+8. ADAMTS13
+Official Symbol: ADAMTS13 and Name: ADAM metallopeptidase with thrombospondin type 1 motif 13 [Homo sapiens (human)]
+Other Aliases: ADAM-TS13, ADAMTS-13, C9orf8, VWFCP, vWF-CP
+Other Designations: A disintegrin and metalloproteinase with thrombospondin motifs 13; a disintegrin-like and metalloprotease (reprolysin type) with thrombospondin type 1 motif, 13; vWF-cleaving protease; von Willebrand factor-cleaving protease
+Chromosome: 9; Location: 9q34.2
+Annotation: Chromosome 9 NC_000009.12 (133414337..133459403)
+MIM: 604134
+ID: 11093
+
+9. ADM
+Official Symbol: ADM and Name: adrenomedullin [Homo sapiens (human)]
+Other Aliases: AM, PAMP
+Other Designations: pro-adrenomedullin; preproadrenomedullin; proadrenomedullin N-20 terminal peptide
+Chromosome: 11; Location: 11p15.4
+Annotation: Chromosome 11 NC_000011.10 (10305073..10307397)
+MIM: 103275
+ID: 133
+
+10. AGER
+Official Symbol: AGER and Name: advanced glycosylation end-product specific receptor [Homo sapiens (human)]
+Other Aliases: RAGE, SCARJ1, sRAGE
+Other Designations: advanced glycosylation end product-specific receptor; receptor for advanced glycation end-products variant 20
+Chromosome: 6; Location: 6p21.32
+Annotation: Chromosome 6 NC_000006.12 (32180969..32184380, complement)
+MIM: 600214
+ID: 177
+
+11. AGT
+Official Symbol: AGT and Name: angiotensinogen [Homo sapiens (human)]
+Other Aliases: ANHU, SERPINA8, hFLT1
+Other Designations: angiotensinogen; alpha-1 antiproteinase, antitrypsin; angiotensin I; angiotensin II; fetal-liver predominant transporter 1; pre-angiotensinogen; serine (or cysteine) proteinase inhibitor; serpin A8; serpin peptidase inhibitor, clade A, member 8
+Chromosome: 1; Location: 1q42.2
+Annotation: Chromosome 1 NC_000001.11 (230702523..230745583, complement)
+MIM: 106150
+ID: 183
+
+12. AKT1
+Official Symbol: AKT1 and Name: AKT serine/threonine kinase 1 [Homo sapiens (human)]
+Other Aliases: AKT, PKB, PKB-ALPHA, PRKBA, RAC, RAC-ALPHA
+Other Designations: RAC-alpha serine/threonine-protein kinase; AKT1m; PKB alpha; RAC-PK-alpha; protein kinase B alpha; proto-oncogene c-Akt; rac protein kinase alpha; serine-threonine protein kinase; v-akt murine thymoma viral oncogene homolog 1; v-akt murine thymoma viral oncogene-like protein 1
+Chromosome: 14; Location: 14q32.33
+Annotation: Chromosome 14 NC_000014.9 (104769349..104795748, complement)
+MIM: 164730
+ID: 207
+
+13. ALB
+Official Symbol: ALB and Name: albumin [Homo sapiens (human)]
+Other Aliases: HSA, PRO0883, PRO0903, PRO1341
+Other Designations: albumin; serum albumin
+Chromosome: 4; Location: 4q13.3
+Annotation: Chromosome 4 NC_000004.12 (73404287..73421482)
+MIM: 103600
+ID: 213
+
+14. APOE
+Official Symbol: APOE and Name: apolipoprotein E [Homo sapiens (human)]
+Other Aliases: AD2, APO-E, ApoE4, LDLCQ5, LPG
+Other Designations: apolipoprotein E; apolipoprotein E3
+Chromosome: 19; Location: 19q13.32
+Annotation: Chromosome 19 NC_000019.10 (44905796..44909393)
+MIM: 107741
+ID: 348
+
+15. APOL1
+Official Symbol: APOL1 and Name: apolipoprotein L1 [Homo sapiens (human)]
+Other Aliases: APO-L, APOL, APOL-I, FSGS4
+Other Designations: apolipoprotein L1; apolipoprotein L 1; apolipoprotein L1-B3
+Chromosome: 22; Location: 22q12.3
+Annotation: Chromosome 22 NC_000022.11 (36253071..36267531)
+MIM: 603743
+ID: 8542
+
+16. AR
+Official Symbol: AR and Name: androgen receptor [Homo sapiens (human)]
+Other Aliases: AIS8, DHTR, HUMARA, HYSP1, KD, NR3C4, SBMA, SMAX1, TFM, AR
+Other Designations: androgen receptor; dihydrotestosterone receptor; nuclear receptor subfamily 3 group C member 4
+Chromosome: X; Location: Xq12
+Annotation: Chromosome X NC_000023.11 (67544021..67730619)
+MIM: 313700
+ID: 367
+
+17. ATF4
+Official Symbol: ATF4 and Name: activating transcription factor 4 [Homo sapiens (human)]
+Other Aliases: CREB-2, CREB2, TAXREB67, TXREB
+Other Designations: cyclic AMP-dependent transcription factor ATF-4; DNA-binding protein TAXREB67; cAMP response element-binding protein 2; cAMP-dependent transcription factor ATF-4; cAMP-responsive element-binding protein 2; cyclic AMP-responsive element-binding protein 2; tax-responsive enhancer element B67; tax-responsive enhancer element-binding protein 67
+Chromosome: 22; Location: 22q13.1
+Annotation: Chromosome 22 NC_000022.11 (39514494..39522686)
+MIM: 604064
+ID: 468
+
+18. BSG
+Official Symbol: BSG and Name: basigin (Ok blood group) [Homo sapiens (human)]
+Other Aliases: 5F7, CD147, EMMPRIN, EMPRIN, HAb18G, OK, SLC7A11, TCSF
+Other Designations: basigin; OK blood group antigen; collagenase stimulatory factor; extracellular matrix metalloproteinase inducer; hepatoma-associated antigen; leukocyte activation antigen M6; tumor cell-derived collagenase stimulatory factor
+Chromosome: 19; Location: 19p13.3
+Annotation: Chromosome 19 NC_000019.10 (571283..583493)
+MIM: 109480
+ID: 682
+
+19. BTK
+Official Symbol: BTK and Name: Bruton tyrosine kinase [Homo sapiens (human)]
+Other Aliases: AGMX1, AT, ATK, BPK, IGHD3, IMD1, PSCTK1, XLA
+Other Designations: tyrosine-protein kinase BTK; B-cell progenitor kinase; Bruton agammaglobulinemia tyrosine kinase; Bruton's tyrosine kinase; agammaglobulinaemia tyrosine kinase; dominant-negative kinase-deficient Brutons tyrosine kinase; truncated Bruton agammaglobulinemia tyrosine kinase
+Chromosome: X; Location: Xq22.1
+Annotation: Chromosome X NC_000023.11 (101349450..101390796, complement)
+MIM: 300300
+ID: 695
+
+20. C5
+Official Symbol: C5 and Name: complement C5 [Homo sapiens (human)]
+Other Aliases: C5Da, C5b, CPAMD4, ECLZB, C5
+Other Designations: complement C5; C3 and PZP-like alpha-2-macroglobulin domain-containing protein 4; C5a anaphylatoxin; anaphylatoxin C5a analog; complement component 5; prepro-C5
+Chromosome: 9; Location: 9q33.2
+Annotation: Chromosome 9 NC_000009.12 (120952335..121074865, complement)
+MIM: 120900
+ID: 727
+
+
+21. C5AR1
+Official Symbol: C5AR1 and Name: complement C5a receptor 1 [Homo sapiens (human)]
+Other Aliases: C5A, C5AR, C5R1, CD88
+Other Designations: C5a anaphylatoxin chemotactic receptor 1; C5a anaphylatoxin receptor; C5a ligand; C5a-R; complement component 5a receptor 1
+Chromosome: 19; Location: 19q13.32
+Annotation: Chromosome 19 NC_000019.10 (47309861..47322066)
+MIM: 113995
+ID: 728
+
+22. CALCA
+Official Symbol: CALCA and Name: calcitonin related polypeptide alpha [Homo sapiens (human)]
+Other Aliases: CALC1, CGRP, CGRP-I, CGRP-alpha, CGRP1, CT, KC, PCT
+Other Designations: calcitonin; calcitonin gene-related peptide 1; alpha-type CGRP; calcitonin 1; calcitonin gene-related peptide I; calcitonin/calcitonin-related polypeptide, alpha; katacalcin
+Chromosome: 11; Location: 11p15.2
+Annotation: Chromosome 11 NC_000011.10 (14966668..14972361, complement)
+MIM: 114130
+ID: 796
+
+23. CAT
+Official Symbol: CAT and Name: catalase [Homo sapiens (human)]
+Other Designations: catalase; epididymis secretory sperm binding protein
+Chromosome: 11; Location: 11p13
+Annotation: Chromosome 11 NC_000011.10 (34438934..34472060)
+MIM: 115500
+ID: 847
+
+24. CCL17
+Official Symbol: CCL17 and Name: C-C motif chemokine ligand 17 [Homo sapiens (human)]
+Other Aliases: A-152E5.3, ABCD-2, SCYA17, TARC
+Other Designations: C-C motif chemokine 17; CC chemokine TARC; T cell-directed CC chemokine; chemokine (C-C motif) ligand 17; small inducible cytokine subfamily A (Cys-Cys), member 17; small-inducible cytokine A17; thymus and activation-regulated chemokine
+Chromosome: 16; Location: 16q21
+Annotation: Chromosome 16 NC_000016.10 (57396076..57416063)
+MIM: 601520
+ID: 6361
+
+25. CCL2
+Official Symbol: CCL2 and Name: C-C motif chemokine ligand 2 [Homo sapiens (human)]
+Other Aliases: GDCF-2, HC11, HSMCR30, MCAF, MCP-1, MCP1, SCYA2, SMC-CF
+Other Designations: C-C motif chemokine 2; chemokine (C-C motif) ligand 2; monocyte chemoattractant protein-1; monocyte chemotactic and activating factor; monocyte chemotactic protein 1; monocyte secretory protein JE; small inducible cytokine A2 (monocyte chemotactic protein 1, homologous to mouse Sig-je); small inducible cytokine subfamily A (Cys-Cys), member 2; small-inducible cytokine A2
+Chromosome: 17; Location: 17q12
+Annotation: Chromosome 17 NC_000017.11 (34255285..34257203)
+MIM: 158105
+ID: 6347
+
+26. CCL7
+Official Symbol: CCL7 and Name: C-C motif chemokine ligand 7 [Homo sapiens (human)]
+Other Aliases: FIC, MARC, MCP-3, MCP3, NC28, SCYA6, SCYA7
+Other Designations: C-C motif chemokine 7; chemokine (C-C motif) ligand 7; monocyte chemoattractant protein 3; monocyte chemotactic protein 3; small inducible cytokine A7 (monocyte chemotactic protein 3); small-inducible cytokine A7
+Chromosome: 17; Location: 17q12
+Annotation: Chromosome 17 NC_000017.11 (34270221..34272242)
+MIM: 158106
+ID: 6354
+
+27. CCR5
+Official Symbol: CCR5 and Name: C-C motif chemokine receptor 5 [Homo sapiens (human)]
+Other Aliases: CC-CKR-5, CCCKR5, CCR-5, CD195, CKR-5, CKR5, CMKBR5, IDDM22
+Other Designations: C-C chemokine receptor type 5; C-C motif chemokine receptor 5 A159A; HIV-1 fusion coreceptor; chemokine (C-C motif) receptor 5; chemokine receptor CCR5; chemokine recptor CCR5 Delta32; chemr13
+Chromosome: 3; Location: 3p21.31
+Annotation: Chromosome 3 NC_000003.12 (46370142..46376206)
+MIM: 601373
+ID: 1234
+
+28. CCR9
+Official Symbol: CCR9 and Name: C-C motif chemokine receptor 9 [Homo sapiens (human)]
+Other Aliases: CC-CKR-9, CDw199, GPR-9-6, GPR28
+Other Designations: C-C chemokine receptor type 9; G protein-coupled receptor 28; chemokine (C-C motif) receptor 9
+Chromosome: 3; Location: 3p21.31
+Annotation: Chromosome 3 NC_000003.12 (45886064..45903174)
+MIM: 604738
+ID: 10803
+
+29. CD14
+Official Symbol: CD14 and Name: CD14 molecule [Homo sapiens (human)]
+Other Designations: monocyte differentiation antigen CD14; myeloid cell-specific leucine-rich glycoprotein
+Chromosome: 5; Location: 5q31.3
+Annotation: Chromosome 5 NC_000005.10 (140631732..140633701, complement)
+MIM: 158120
+ID: 929
+
+30. CD163
+Official Symbol: CD163 and Name: CD163 molecule [Homo sapiens (human)]
+Other Aliases: M130, MM130, SCARI1
+Other Designations: scavenger receptor cysteine-rich type 1 protein M130; hemoglobin scavenger receptor; macrophage-associated antigen
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (7470811..7503808, complement)
+MIM: 605545
+ID: 9332
+
+31. CD4
+Official Symbol: CD4 and Name: CD4 molecule [Homo sapiens (human)]
+Other Aliases: CD4mut, IMD79, OKT4D
+Other Designations: T-cell surface glycoprotein CD4; CD4 antigen (p55); CD4 receptor; T-cell surface antigen T4/Leu-3
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (6789528..6820799)
+MIM: 186940
+ID: 920
+
+32. CD8A
+Official Symbol: CD8A and Name: CD8a molecule [Homo sapiens (human)]
+Other Aliases: CD8, Leu2, p32
+Other Designations: T-cell surface glycoprotein CD8 alpha chain; CD8 antigen, alpha polypeptide (p32); Leu2 T-lymphocyte antigen; OKT8 T-cell antigen; T cell co-receptor; T-cell antigen Leu2; T-lymphocyte differentiation antigen T8/Leu-2; T8 T-cell antigen
+Chromosome: 2; Location: 2p11.2
+Annotation: Chromosome 2 NC_000002.12 (86784605..86808396, complement)
+MIM: 186910
+ID: 925
+
+33. CLEC4M
+Official Symbol: CLEC4M and Name: C-type lectin domain family 4 member M [Homo sapiens (human)]
+Other Aliases: CD209L, CD299, DC-SIGN2, DC-SIGNR, DCSIGNR, HP10347, L-SIGN, LSIGN
+Other Designations: C-type lectin domain family 4 member M; CD209 antigen-like protein 1; CD299 antigen; DC-SIGN-related protein; dendritic cell-specific ICAM-3-grabbing non-integrin 2; liver/lymph node-specific ICAM-3 grabbing non-integrin; mannose binding C-type lectin DC-SIGNR
+Chromosome: 19; Location: 19p13.2
+Annotation: Chromosome 19 NC_000019.10 (7763243..7769605)
+MIM: 605872
+ID: 10332
+
+34. CRP
+Official Symbol: CRP and Name: C-reactive protein [Homo sapiens (human)]
+Other Aliases: PTX1
+Other Designations: C-reactive protein; C-reactive protein, pentraxin-related; pentraxin 1
+Chromosome: 1; Location: 1q23.2
+Annotation: Chromosome 1 NC_000001.11 (159712289..159714589, complement)
+MIM: 123260
+ID: 1401
+
+35. CSF2
+Official Symbol: CSF2 and Name: colony stimulating factor 2 [Homo sapiens (human)]
+Other Aliases: CSF, GMCSF
+Other Designations: granulocyte-macrophage colony-stimulating factor; colony stimulating factor 2 (granulocyte-macrophage); granulocyte macrophage-colony stimulating factor; molgramostim; molgramostin; sargramostim
+Chromosome: 5; Location: 5q31.1
+Annotation: Chromosome 5 NC_000005.10 (132073789..132076170)
+MIM: 138960
+ID: 1437
+
+36. CTSL
+Official Symbol: CTSL and Name: cathepsin L [Homo sapiens (human)]
+Other Aliases: CATL1, MEP, CTSL
+Other Designations: procathepsin L; cathepsin L1; major excreted protein
+Chromosome: 9; Location: 9q21.33
+Annotation: Chromosome 9 NC_000009.12 (87726119..87731469)
+MIM: 116880
+ID: 1514
+
+37. CXCL10
+Official Symbol: CXCL10 and Name: C-X-C motif chemokine ligand 10 [Homo sapiens (human)]
+Other Aliases: C7, IFI10, INP10, IP-10, SCYB10, crg-2, gIP-10, mob-1
+Other Designations: C-X-C motif chemokine 10; 10 kDa interferon gamma-induced protein; gamma IP10; interferon-inducible cytokine IP-10; protein 10 from interferon (gamma)-induced cell line; small inducible cytokine subfamily B (Cys-X-Cys), member 10; small-inducible cytokine B10
+Chromosome: 4; Location: 4q21.1
+Annotation: Chromosome 4 NC_000004.12 (76021118..76023497, complement)
+MIM: 147310
+ID: 3627
+
+38. CXCL8
+Official Symbol: CXCL8 and Name: C-X-C motif chemokine ligand 8 [Homo sapiens (human)]
+Other Aliases: GCP-1, GCP1, IL8, LECT, LUCT, LYNAP, MDNCF, MONAP, NAF, NAP-1, NAP1, SCYB8
+Other Designations: interleukin-8; T-cell chemotactic factor; alveolar macrophage chemotactic factor I; beta endothelial cell-derived neutrophil activating peptide; beta-thromboglobulin-like protein; chemokine (C-X-C motif) ligand 8; emoctakin; granulocyte chemotactic protein 1; interleukin 8; lung giant cell carcinoma-derived chemotactic protein; lymphocyte derived neutrophil activating peptide; monocyte-derived neutrophil chemotactic factor; monocyte-derived neutrophil-activating peptide; neutrophil-activating peptide 1; small inducible cytokine subfamily B, member 8; tumor necrosis factor-induced gene 1
+Chromosome: 4; Location: 4q13.3
+Annotation: Chromosome 4 NC_000004.12 (73740569..73743716)
+MIM: 146930
+ID: 3576
+
+39. DPP4
+Official Symbol: DPP4 and Name: dipeptidyl peptidase 4 [Homo sapiens (human)]
+Other Aliases: ADABP, ADCP2, CD26, DPPIV, TP103
+Other Designations: dipeptidyl peptidase 4; ADCP-2; DPP IV; Gly-Pro naphthylamidase; Post-proline dipeptidyl aminopeptidase IV; T-cell activation antigen CD26; Xaa-Pro-dipeptidylaminopeptidase; adenosine deaminase complexing protein 2; dipeptidyl peptidase IV; dipeptidylpeptidase 4; dipeptidylpeptidase IV (CD26, adenosine deaminase complexing protein 2)
+Chromosome: 2; Location: 2q24.2
+Annotation: Chromosome 2 NC_000002.12 (161992245..162074215, complement)
+MIM: 102720
+ID: 1803
+
+40. E
+envelope protein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp04
+Other Designations: envelope protein
+Annotation:  NC_045512.2 (26245..26472)
+ID: 43740570
+
+
+41. EGFR
+Official Symbol: EGFR and Name: epidermal growth factor receptor [Homo sapiens (human)]
+Other Aliases: ERBB, ERBB1, ERRP, HER1, NISBD2, PIG61, mENA
+Other Designations: epidermal growth factor receptor; avian erythroblastic leukemia viral (v-erb-b) oncogene homolog; cell growth inhibiting protein 40; cell proliferation-inducing protein 61; epidermal growth factor receptor tyrosine kinase domain; erb-b2 receptor tyrosine kinase 1; proto-oncogene c-ErbB-1; receptor tyrosine-protein kinase erbB-1
+Chromosome: 7; Location: 7p11.2
+Annotation: Chromosome 7 NC_000007.14 (55019017..55211628)
+MIM: 131550
+ID: 1956
+
+42. ELAVL2
+Official Symbol: ELAVL2 and Name: ELAV like RNA binding protein 2 [Homo sapiens (human)]
+Other Aliases: HEL-N1, HELN1, HUB
+Other Designations: ELAV-like protein 2; ELAV (embryonic lethal, abnormal vision, Drosophila)-like 2 (Hu antigen B); ELAV like neuron-specific RNA binding protein 2; hu-antigen B; nervous system-specific RNA-binding protein Hel-N1
+Chromosome: 9; Location: 9p21.3
+Annotation: Chromosome 9 NC_000009.12 (23690099..23850601, complement)
+MIM: 601673
+ID: 1993
+
+43. ENPEP
+Official Symbol: ENPEP and Name: glutamyl aminopeptidase [Homo sapiens (human)]
+Other Aliases: APA, CD249, gp160
+Other Designations: glutamyl aminopeptidase; AP-A; EAP; aminopeptidase A; differentiation antigen gp160
+Chromosome: 4; Location: 4q25
+Annotation: Chromosome 4 NC_000004.12 (110476155..110565285)
+MIM: 138297
+ID: 2028
+
+44. ERG
+Official Symbol: ERG and Name: ETS transcription factor ERG [Homo sapiens (human)]
+Other Aliases: erg-3, p55
+Other Designations: transcriptional regulator ERG; ERG, ETS transcription factor; FUS/ERG fusion protein; TMPRSS2/ERG fusion; erythroblast transformation-specific transcription factor ERG variant 10; ets-related; transcriptional regulator ERG (transforming protein ERG); v-ets avian erythroblastosis virus E26 oncogene homolog; v-ets avian erythroblastosis virus E26 oncogene related; v-ets erythroblastosis virus E26 oncogene homolog; v-ets erythroblastosis virus E26 oncogene like
+Chromosome: 21; Location: 21q22.2
+Annotation: Chromosome 21 NC_000021.9 (38367261..38661783, complement)
+MIM: 165080
+ID: 2078
+
+45. F3
+Official Symbol: F3 and Name: coagulation factor III, tissue factor [Homo sapiens (human)]
+Other Aliases: CD142, TF, TFA
+Other Designations: tissue factor; coagulation factor III (thromboplastin, tissue factor)
+Chromosome: 1; Location: 1p21.3
+Annotation: Chromosome 1 NC_000001.11 (94529173..94541759, complement)
+MIM: 134390
+ID: 2152
+
+46. FAS
+Official Symbol: FAS and Name: Fas cell surface death receptor [Homo sapiens (human)]
+Other Aliases: ALPS1A, APO-1, APT1, CD951, FASTM, TNFRSF6, FAS
+Other Designations: tumor necrosis factor receptor superfamily member 6; APO-1 cell surface antigen; CD95 antigen; FASLG receptor; Fas (TNF receptor superfamily, member 6); Fas AMA; TNF receptor superfamily member 6; apoptosis antigen 1; apoptosis signaling receptor FAS; apoptosis-mediating surface antigen FAS; mutant tumor necrosis receptor superfamily member 6; tumor necrosis factor receptor superfamily, member 6
+Chromosome: 10; Location: 10q23.31
+Annotation: Chromosome 10 NC_000010.11 (88968429..89017059)
+MIM: 134637
+ID: 355
+
+47. FCGR3A
+Official Symbol: FCGR3A and Name: Fc fragment of IgG receptor IIIa [Homo sapiens (human)]
+Other Aliases: CD16, CD16A, FCG3, FCGR3, FCGRIII, FCR-10, FCRIII, FCRIIIA, IGFR3, IMD20
+Other Designations: low affinity immunoglobulin gamma Fc region receptor III-A; CD16a antigen; Fc fragment of IgG, low affinity III, receptor for (CD16); Fc fragment of IgG, low affinity IIIa, receptor (CD16a); Fc gamma receptor III-A; Fc-gamma RIII-alpha; Fc-gamma receptor III-2 (CD 16); Fc-gamma receptor IIIb (CD16); FcgammaRIIIA; igG Fc receptor III-2; immunoglobulin G Fc receptor III; low affinity immunoglobulin gamma receptor III-a Fc fragment; neutrophil-specific antigen NA
+Chromosome: 1; Location: 1q23.3
+Annotation: Chromosome 1 NC_000001.11 (161541759..161550737, complement)
+MIM: 146740
+ID: 2214
+
+48. FNDC5
+Official Symbol: FNDC5 and Name: fibronectin type III domain containing 5 [Homo sapiens (human)]
+Other Aliases: FRCP2, irisin
+Other Designations: fibronectin type III domain-containing protein 5; fibronectin type III repeat-containing protein 2
+Chromosome: 1; Location: 1p35.1
+Annotation: Chromosome 1 NC_000001.11 (32862268..32872484, complement)
+MIM: 611906
+ID: 252995
+
+49. FPR1
+Official Symbol: FPR1 and Name: formyl peptide receptor 1 [Homo sapiens (human)]
+Other Aliases: FMLP, FPR
+Other Designations: fMet-Leu-Phe receptor; N-formylpeptide chemoattractant receptor; fMLP receptor
+Chromosome: 19; Location: 19q13.41
+Annotation: Chromosome 19 NC_000019.10 (51745172..51751878, complement)
+MIM: 136537
+ID: 2357
+
+50. FTL
+Official Symbol: FTL and Name: ferritin light chain [Homo sapiens (human)]
+Other Aliases: LFTD, NBIA3
+Other Designations: ferritin light chain; epididymis secretory sperm binding protein; ferritin L subunit; ferritin L-chain; ferritin light polypeptide-like 3; ferritin, light polypeptide
+Chromosome: 19; Location: 19q13.33
+Annotation: Chromosome 19 NC_000019.10 (48965309..48966879)
+MIM: 134790
+ID: 2512
+
+51. FURIN
+Official Symbol: FURIN and Name: furin, paired basic amino acid cleaving enzyme [Homo sapiens (human)]
+Other Aliases: FUR, PACE, PCSK3, SPC1
+Other Designations: furin; FES upstream region; dibasic processing enzyme; furin, membrane associated receptor protein; paired basic amino acid residue-cleaving enzyme; proprotein convertase subtilisin/kexin 3; proprotein convertase subtilisin/kexin type 3; subtilisin-like proprotein convertase 1
+Chromosome: 15; Location: 15q26.1
+Annotation: Chromosome 15 NC_000015.10 (90868588..90883457)
+MIM: 136950
+ID: 5045
+
+52. GSTT1
+Official Symbol: GSTT1 and Name: glutathione S-transferase theta 1 [Homo sapiens (human)]
+Other Designations: glutathione S-transferase theta-1; GST class-theta-1; glutathione transferase T1-1
+Chromosome: 22; Location: 22q11.23
+MIM: 600436
+ID: 2952
+
+53. GZMA
+Official Symbol: GZMA and Name: granzyme A [Homo sapiens (human)]
+Other Aliases: CTLA3, HFSP
+Other Designations: granzyme A; CTL tryptase; Cytotoxic T-lymphocyte-associated serine esterase-3; Granzyme A (Cytotoxic T-lymphocyte-associated serine esterase-3; Hanukah factor serine protease); HF; Hanukah factor serine protease); cytotoxic T-lymphocyte proteinase 1; fragmentin-1; granzyme 1; granzyme A (granzyme 1, cytotoxic T-lymphocyte-associated serine esterase 3); h factor
+Chromosome: 5; Location: 5q11.2
+Annotation: Chromosome 5 NC_000005.10 (55102646..55110252)
+MIM: 140050
+ID: 3001
+
+54. HAVCR2
+Official Symbol: HAVCR2 and Name: hepatitis A virus cellular receptor 2 [Homo sapiens (human)]
+Other Aliases: CD366, HAVcr-2, KIM-3, SPTCL, TIM3, TIMD-3, TIMD3, Tim-3
+Other Designations: hepatitis A virus cellular receptor 2; T cell immunoglobulin mucin 3; T-cell immunoglobulin and mucin domain-containing protein 3; T-cell immunoglobulin mucin family member 3; T-cell immunoglobulin mucin receptor 3; T-cell membrane protein 3; kidney injury molecule-3
+Chromosome: 5; Location: 5q33.3
+Annotation: Chromosome 5 NC_000005.10 (157085832..157109044, complement)
+MIM: 606652
+ID: 84868
+
+55. HIF1A
+Official Symbol: HIF1A and Name: hypoxia inducible factor 1 subunit alpha [Homo sapiens (human)]
+Other Aliases: HIF-1-alpha, HIF-1A, HIF-1alpha, HIF1, HIF1-ALPHA, MOP1, PASD8, bHLHe78
+Other Designations: hypoxia-inducible factor 1-alpha; ARNT interacting protein; PAS domain-containing protein 8; basic-helix-loop-helix-PAS protein MOP1; class E basic helix-loop-helix protein 78; hypoxia inducible factor 1 alpha subunit; hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor); hypoxia-inducible factor1alpha; member of PAS protein 1; member of PAS superfamily 1
+Chromosome: 14; Location: 14q23.2
+Annotation: Chromosome 14 NC_000014.9 (61695513..61748258)
+MIM: 603348
+ID: 3091
+
+56. HLA-A
+Official Symbol: HLA-A and Name: major histocompatibility complex, class I, A [Homo sapiens (human)]
+Other Aliases: HLAA
+Other Designations: HLA class I histocompatibility antigen, A alpha chain; HLA class I histocompatibility antigen, A-1 alpha chain; MHC class I antigen HLA-A heavy chain; leukocyte antigen class I-A
+Chromosome: 6; Location: 6p22.1
+Annotation: Chromosome 6 NC_000006.12 (29942532..29945870)
+MIM: 142800
+ID: 3105
+
+57. HLA-B
+Official Symbol: HLA-B and Name: major histocompatibility complex, class I, B [Homo sapiens (human)]
+Other Aliases: AS, B-4901, HLAB
+Other Designations: major histocompatibility complex, class I, B; HLA class I antigen HLA-B; HLA class I histocompatibility antigen, B alpha chain; MHC HLA-B cell surface glycoprotein; MHC HLA-B transmembrane glycoprotein; MHC class 1 antigen; MHC class I antigen HLA-B alpha chain; MHC class I antigen HLA-B heavy chain; MHC class I antigen SHCHA; MHC class I molecule; leukocyte antigen class I-B
+Chromosome: 6; Location: 6p21.33
+Annotation: Chromosome 6 NC_000006.12 (31353875..31357179, complement)
+MIM: 142830
+ID: 3106
+
+58. HLA-C
+Official Symbol: HLA-C and Name: major histocompatibility complex, class I, C [Homo sapiens (human)]
+Other Aliases: D6S204, HLA-JY3, HLAC, HLC-C, MHC, PSORS1
+Other Designations: HLA class I histocompatibility antigen, C alpha chain; HLA-C antigen; MHC class I antigen heavy chain HLA-C; human leukocyte antigen-C alpha chain; major histocompatibility antigen HLA-C
+Chromosome: 6; Location: 6p21.33
+Annotation: Chromosome 6 NC_000006.12 (31268749..31272092, complement)
+MIM: 142840
+ID: 3107
+
+59. HMGB1
+Official Symbol: HMGB1 and Name: high mobility group box 1 [Homo sapiens (human)]
+Other Aliases: HMG-1, HMG1, HMG3, SBP-1
+Other Designations: high mobility group protein B1; Amphoterin; Sulfoglucuronyl carbohydrate binding protein; high-mobility group (nonhistone chromosomal) protein 1
+Chromosome: 13; Location: 13q12.3
+Annotation: Chromosome 13 NC_000013.11 (30456704..30617597, complement)
+MIM: 163905
+ID: 3146
+
+60. HMOX1
+Official Symbol: HMOX1 and Name: heme oxygenase 1 [Homo sapiens (human)]
+Other Aliases: HMOX1D, HO-1, HSP32, bK286B10
+Other Designations: heme oxygenase 1; heat shock protein, 32-kD; heme oxygenase (decycling) 1
+Chromosome: 22; Location: 22q12.3
+Annotation: Chromosome 22 NC_000022.11 (35381096..35394207)
+MIM: 141250
+ID: 3162
+
+
+61. HSPA5
+Official Symbol: HSPA5 and Name: heat shock protein family A (Hsp70) member 5 [Homo sapiens (human)]
+Other Aliases: BIP, GRP78, HEL-S-89n
+Other Designations: endoplasmic reticulum chaperone BiP; 78 kDa glucose-regulated protein; HSP70 family protein 5; binding-immunoglobulin protein; endoplasmic reticulum lumenal Ca(2+)-binding protein grp78; epididymis secretory sperm binding protein Li 89n; glucose-regulated protein, 78kDa; heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa); heat shock protein 70 family protein 5; heat shock protein family A member 5; immunoglobulin heavy chain-binding protein
+Chromosome: 9; Location: 9q33.3
+Annotation: Chromosome 9 NC_000009.12 (125234853..125241343, complement)
+MIM: 138120
+ID: 3309
+
+62. IFIH1
+Official Symbol: IFIH1 and Name: interferon induced with helicase C domain 1 [Homo sapiens (human)]
+Other Aliases: AGS7, Hlcd, IDDM19, MDA-5, MDA5, RLR-2, SGMRT1
+Other Designations: interferon-induced helicase C domain-containing protein 1; CADM-140 autoantigen; DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide; RIG-I-like receptor 2; RNA helicase-DEAD box protein 116; clinically amyopathic dermatomyositis autoantigen 140 kDa; helicard; helicase with 2 CARD domains; melanoma differentiation-associated gene 5; melanoma differentiation-associated protein 5; murabutide down-regulated protein
+Chromosome: 2; Location: 2q24.2
+Annotation: Chromosome 2 NC_000002.12 (162267074..162318684, complement)
+MIM: 606951
+ID: 64135
+
+63. IFITM3
+Official Symbol: IFITM3 and Name: interferon induced transmembrane protein 3 [Homo sapiens (human)]
+Other Aliases: 1-8U, DSPA2b, IP15
+Other Designations: interferon-induced transmembrane protein 3; dispanin subfamily A member 2b; interferon-inducible protein 1-8U
+Chromosome: 11; Location: 11p15.5
+Annotation: Chromosome 11 NC_000011.10 (319676..320860, complement)
+MIM: 605579
+ID: 10410
+
+64. IFNA1
+Official Symbol: IFNA1 and Name: interferon alpha 1 [Homo sapiens (human)]
+Other Aliases: IFL, IFN, IFN-ALPHA, IFN-alphaD3, IFNA@, leIF D, IFNA1
+Other Designations: interferon alpha-1/13; IFN-alpha-1/13; interferon alpha 1b; interferon alpha-D; interferon-alpha1
+Chromosome: 9; Location: 9p21.3
+Annotation: Chromosome 9 NC_000009.12 (21440439..21441316)
+MIM: 147660
+ID: 3439
+
+65. IFNA2
+Official Symbol: IFNA2 and Name: interferon alpha 2 [Homo sapiens (human)]
+Other Aliases: IFN-alpha-2, IFN-alphaA, IFNAB, leIF A, IFNA2
+Other Designations: interferon alpha-2; alpha-2a interferon; interferon alpha 2a; interferon alpha 2b; interferon alpha A
+Chromosome: 9; Location: 9p21.3
+Annotation: Chromosome 9 NC_000009.12 (21384255..21385398, complement)
+MIM: 147562
+ID: 3440
+
+66. IFNB1
+Official Symbol: IFNB1 and Name: interferon beta 1 [Homo sapiens (human)]
+Other Aliases: IFB, IFF, IFN-beta, IFNB
+Other Designations: interferon beta; fibroblast interferon; interferon, beta 1, fibroblast; interferon-beta
+Chromosome: 9; Location: 9p21.3
+Annotation: Chromosome 9 NC_000009.12 (21077104..21077942, complement)
+MIM: 147640
+ID: 3456
+
+67. IFNG
+Official Symbol: IFNG and Name: interferon gamma [Homo sapiens (human)]
+Other Aliases: IFG, IFI, IMD69
+Other Designations: interferon gamma; IFN-gamma; immune interferon
+Chromosome: 12; Location: 12q15
+Annotation: Chromosome 12 NC_000012.12 (68154768..68159740, complement)
+MIM: 147570
+ID: 3458
+
+68. IL10
+Official Symbol: IL10 and Name: interleukin 10 [Homo sapiens (human)]
+Other Aliases: CSIF, GVHDS, IL-10A, TGIF, IL10
+Other Designations: interleukin-10; T-cell growth inhibitory factor; cytokine synthesis inhibitory factor
+Chromosome: 1; Location: 1q32.1
+Annotation: Chromosome 1 NC_000001.11 (206767602..206772494, complement)
+MIM: 124092
+ID: 3586
+
+69. IL18
+Official Symbol: IL18 and Name: interleukin 18 [Homo sapiens (human)]
+Other Aliases: IGIF, IL-18, IL-1g, IL1F4
+Other Designations: interleukin-18; IFN-gamma-inducing factor; IL-1 gamma; iboctadekin; interleukin 18 (interferon-gamma-inducing factor); interleukin-1 gamma
+Chromosome: 11; Location: 11q23.1
+Annotation: Chromosome 11 NC_000011.10 (112143251..112164104, complement)
+MIM: 600953
+ID: 3606
+
+70. IL1B
+Official Symbol: IL1B and Name: interleukin 1 beta [Homo sapiens (human)]
+Other Aliases: IL-1, IL1-BETA, IL1F2, IL1beta
+Other Designations: interleukin-1 beta; IL-1 beta; catabolin; interleukin 1beta; preinterleukin 1 beta; pro-interleukin-1-beta
+Chromosome: 2; Location: 2q14.1
+Annotation: Chromosome 2 NC_000002.12 (112829751..112836843, complement)
+MIM: 147720
+ID: 3553
+
+71. IL2RA
+Official Symbol: IL2RA and Name: interleukin 2 receptor subunit alpha [Homo sapiens (human)]
+Other Aliases: CD25, IDDM10, IL2R, IMD41, TCGFR, p55
+Other Designations: interleukin-2 receptor subunit alpha; IL-2 receptor subunit alpha; IL-2R subunit alpha; TAC antigen; interleukin 2 receptor, alpha
+Chromosome: 10; Location: 10p15.1
+Annotation: Chromosome 10 NC_000010.11 (6010689..6062367, complement)
+MIM: 147730
+ID: 3559
+
+72. IL4
+Official Symbol: IL4 and Name: interleukin 4 [Homo sapiens (human)]
+Other Aliases: BCGF-1, BCGF1, BSF-1, BSF1, IL-4
+Other Designations: interleukin-4; B cell growth factor 1; B_cell stimulatory factor 1; binetrakin; interleukin 4 variant 2; lymphocyte stimulatory factor 1; pitrakinra
+Chromosome: 5; Location: 5q31.1
+Annotation: Chromosome 5 NC_000005.10 (132673989..132682678)
+MIM: 147780
+ID: 3565
+
+73. IL6
+Official Symbol: IL6 and Name: interleukin 6 [Homo sapiens (human)]
+Other Aliases: BSF-2, BSF2, CDF, HGF, HSF, IFN-beta-2, IFNB2, IL-6
+Other Designations: interleukin-6; B-cell differentiation factor; B-cell stimulatory factor 2; CTL differentiation factor; hybridoma growth factor; interferon beta-2; interleukin BSF-2
+Chromosome: 7; Location: 7p15.3
+Annotation: Chromosome 7 NC_000007.14 (22725889..22732002)
+MIM: 147620
+ID: 3569
+
+74. IL7
+Official Symbol: IL7 and Name: interleukin 7 [Homo sapiens (human)]
+Other Aliases: IL-7
+Other Designations: interleukin-7
+Chromosome: 8; Location: 8q21.13
+Annotation: Chromosome 8 NC_000008.11 (78675870..78806830, complement)
+MIM: 146660
+ID: 3574
+
+75. ITK
+Official Symbol: ITK and Name: IL2 inducible T cell kinase [Homo sapiens (human)]
+Other Aliases: EMT, LPFS1, LYK, PSCTK2
+Other Designations: tyrosine-protein kinase ITK/TSK; IL-2-inducible T-cell kinase; T-cell-specific kinase; homolog of mouse T-cell itk/tsk; interleukin-2-inducible T-cell kinase; kinase EMT; tyrosine-protein kinase LYK
+Chromosome: 5; Location: 5q33.3
+Annotation: Chromosome 5 NC_000005.10 (157180840..157255185)
+MIM: 186973
+ID: 3702
+
+76. JAK1
+Official Symbol: JAK1 and Name: Janus kinase 1 [Homo sapiens (human)]
+Other Aliases: AIIDEA, JAK1B, JTK3, JAK1
+Other Designations: tyrosine-protein kinase JAK1
+Chromosome: 1; Location: 1p31.3
+Annotation: Chromosome 1 NC_000001.11 (64833229..65067746, complement)
+MIM: 147795
+ID: 3716
+
+77. KNG1
+Official Symbol: KNG1 and Name: kininogen 1 [Homo sapiens (human)]
+Other Aliases: BDK, BK, HMWK, KNG
+Other Designations: kininogen-1; alpha-2-thiol proteinase inhibitor; bradykinin; fitzgerald factor; high molecular weight kininogen; williams-Fitzgerald-Flaujeac factor
+Chromosome: 3; Location: 3q27.3
+Annotation: Chromosome 3 NC_000003.12 (186717359..186744410)
+MIM: 612358
+ID: 3827
+
+78. LAG3
+Official Symbol: LAG3 and Name: lymphocyte activating 3 [Homo sapiens (human)]
+Other Aliases: CD223
+Other Designations: lymphocyte activation gene 3 protein; lymphocyte-activation gene 3
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (6772483..6778455)
+MIM: 153337
+ID: 3902
+
+79. LCN2
+Official Symbol: LCN2 and Name: lipocalin 2 [Homo sapiens (human)]
+Other Aliases: 24p3, MSFI, NGAL, p25
+Other Designations: neutrophil gelatinase-associated lipocalin; 25 kDa alpha-2-microglobulin-related subunit of MMP-9; migration-stimulating factor inhibitor; oncogene 24p3; siderocalin LCN2
+Chromosome: 9; Location: 9q34.11
+Annotation: Chromosome 9 NC_000009.12 (128149453..128153453)
+MIM: 600181
+ID: 3934
+
+80. LGALS3
+Official Symbol: LGALS3 and Name: galectin 3 [Homo sapiens (human)]
+Other Aliases: CBP35, GAL3, GALBP, GALIG, L31, LGALS2, MAC2
+Other Designations: galectin-3; 35 kDa lectin; IgE-binding protein; MAC-2 antigen; advanced glycation end-product receptor 3; carbohydrate-binding protein 35; epididymis secretory sperm binding protein; galactose-specific lectin 3; laminin-binding protein; lectin L-29; lectin, galactoside-binding, soluble, 3
+Chromosome: 14; Location: 14q22.3
+Annotation: Chromosome 14 NC_000014.9 (55129252..55145430)
+MIM: 153619
+ID: 3958
+
+
+81. LOC112679198
+ABO +5.8 intron 1 enhancer [Homo sapiens (human)]
+Chromosome: 9; Location: 9q
+Annotation: Chromosome 9 NC_000009.12 (133267998..133270594)
+ID: 112679198
+
+82. LOC117134593
+ACE2 promoter region [Homo sapiens (human)]
+Other Designations: ACE2 5' regulatory region
+Chromosome: X; Location: Xp
+Annotation: Chromosome X NC_000023.11 (15600911..15603000)
+ID: 117134593
+
+83. LOC117134604
+TMPRSS2 promoter region [Homo sapiens (human)]
+Other Designations: TMPRSS2 regulatory region N
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41507255..41509135)
+ID: 117134604
+
+84. LOC117134605
+TMPRSS2 repressive element NBS1 [Homo sapiens (human)]
+Other Designations: NKX3.1 binding site 1 in TMPRSS2 5' regulatory region
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41510416..41510509)
+ID: 117134605
+
+85. LOC117134606
+TMPRSS2 repressive element NBS2 [Homo sapiens (human)]
+Other Designations: NKX3.1 binding site 2 in TMPRSS2 5' regulatory region
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41511423..41511482)
+ID: 117134606
+
+86. LOC117134607
+TMPRSS2 repressive element NBS4 [Homo sapiens (human)]
+Other Designations: NKX3.1 binding site 4 in TMPRSS2 5' regulatory region
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41518773..41518846)
+ID: 117134607
+
+87. LOC117134608
+TMPRSS2 androgen receptor-responsive -13 kb enhancer [Homo sapiens (human)]
+Other Designations: TMPRSS2 -13 kb AR-responsive enhancer; TMPRSS2 B39 enhancer; TMPRSS2 E1 enhancer
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41519077..41522416)
+ID: 117134608
+
+88. LOC117134611
+TMPRSS2 -17 kb enhancer [Homo sapiens (human)]
+Other Designations: TMPRSS2 E2 enhancer
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41525423..41527425)
+ID: 117134611
+
+89. LOC117135104
+TMPRSS2 E3 enhancer [Homo sapiens (human)]
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41529122..41531495)
+ID: 117135104
+
+90. LOC117135105
+TMPRSS2 E4 enhancer [Homo sapiens (human)]
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41535944..41536955)
+ID: 117135105
+
+91. LOC117135106
+TMPRSS2 androgen receptor-responsive -60 kb enhancer [Homo sapiens (human)]
+Other Designations: TMPRSS2 -60 kb AR-responsive enhancer
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (41568581..41569154)
+ID: 117135106
+
+92. LOC117152610
+DPP4 promoter region [Homo sapiens (human)]
+Other Designations: DPP4 5' regulatory region
+Chromosome: 2; Location: 2q
+Annotation: Chromosome 2 NC_000002.12 (162074620..162076396)
+ID: 117152610
+
+93. LOC117152611
+DPP4 -4.2 kb glucocorticoid response element [Homo sapiens (human)]
+Chromosome: 2; Location: 2q
+Annotation: Chromosome 2 NC_000002.12 (162078687..162078798)
+ID: 117152611
+
+94. LOC117204000
+ANPEP distal promoter [Homo sapiens (human)]
+Other Designations: CD13/APN upstream promoter; aminopeptidase N myeloid and fibroblast promoter
+Chromosome: 15; Location: 15q
+Annotation: Chromosome 15 NC_000015.10 (89814788..89815942)
+ID: 117204000
+
+95. LOC117204001
+ANPEP proximal promoter [Homo sapiens (human)]
+Other Designations: CD13/APN downstream promoter; aminopeptidase N intestinal epithelial promoter
+Chromosome: 15; Location: 15q
+Annotation: Chromosome 15 NC_000015.10 (89806536..89808328)
+ID: 117204001
+
+96. LOC117600004
+CTSL promoter region [Homo sapiens (human)]
+Other Designations: cathepsin L promoter
+Chromosome: 9; Location: 9q
+Annotation: Chromosome 9 NC_000009.12 (87724325..87727604)
+ID: 117600004
+
+97. LOC117693187
+CTSL 3' regulatory element [Homo sapiens (human)]
+Chromosome: 9; Location: 9q
+Annotation: Chromosome 9 NC_000009.12 (87731108..87732607)
+ID: 117693187
+
+98. LOC118966792
+dACE2 interferon-inducible promoter region [Homo sapiens (human)]
+Other Designations: MIRb-ACE2 retroelement-containing promoter
+Chromosome: X; Location: Xp
+Annotation: Chromosome X NC_000023.11 (15580397..15581220)
+ID: 118966792
+
+99. LOC119086083
+CCR9 promoter region [Homo sapiens (human)]
+Other Designations: CCR9 5' regulatory region
+Chromosome: 3; Location: 3p21.31
+Annotation: Chromosome 3 NC_000003.12 (45885559..45886558)
+ID: 119086083
+
+100. LOC119230225
+IFNAR1 promoter region [Homo sapiens (human)]
+Other Designations: IFNAR1 5' regulatory region
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (33323674..33324981)
+ID: 119230225
+
+
+101. LOC119266102
+IFNGR2 promoter region [Homo sapiens (human)]
+Other Designations: IFNGR2 5' regulatory region
+Chromosome: 21; Location: 21q
+Annotation: Chromosome 21 NC_000021.9 (33402361..33403538)
+ID: 119266102
+
+102. LPA
+Official Symbol: LPA and Name: lipoprotein(a) [Homo sapiens (human)]
+Other Aliases: AK38, APOA, LP
+Other Designations: apolipoprotein(a); antiangiogenic AK38 protein; apo(a); lipoprotein, Lp(a); lp(a)
+Chromosome: 6; Location: 6q25.3-q26
+Annotation: Chromosome 6 NC_000006.12 (160531482..160664275, complement)
+MIM: 152200
+ID: 4018
+
+103. M
+membrane glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp05
+Other Designations: membrane glycoprotein
+Annotation:  NC_045512.2 (26523..27191)
+ID: 43740571
+
+104. MAF
+Official Symbol: MAF and Name: MAF bZIP transcription factor [Homo sapiens (human)]
+Other Aliases: AYGRP, CCA4, CTRCT21, c-MAF
+Other Designations: transcription factor Maf; Avian musculoaponeurotic fibrosarcoma (MAF) protooncogene; T lymphocyte c-maf long form; c-maf proto-oncogene; proto-oncogene c-Maf; v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog
+Chromosome: 16; Location: 16q23.2
+Annotation: Chromosome 16 NC_000016.10 (79202624..79601952, complement)
+MIM: 177075
+ID: 4094
+
+105. MAFB
+Official Symbol: MAFB and Name: MAF bZIP transcription factor B [Homo sapiens (human)]
+Other Aliases: DURS3, KRML, MCTO
+Other Designations: transcription factor MafB; Kreisler maf-related leucine zipper homolog; MAFB/Kreisler basic region/leucine zipper transcription factor; v-maf avian musculoaponeurotic fibrosarcoma oncogene homolog B
+Chromosome: 20; Location: 20q12
+Annotation: Chromosome 20 NC_000020.11 (40685848..40689236, complement)
+MIM: 608968
+ID: 9935
+
+106. MAS1
+Official Symbol: MAS1 and Name: MAS1 proto-oncogene, G protein-coupled receptor [Homo sapiens (human)]
+Other Aliases: MAS, MGRA
+Other Designations: proto-oncogene Mas; MAS1 oncogene; Mas-related G protein-coupled receptor A
+Chromosome: 6; Location: 6q25.3
+Annotation: Chromosome 6 NC_000006.12 (159890988..159917447)
+MIM: 165180
+ID: 4142
+
+107. MB
+Official Symbol: MB and Name: myoglobin [Homo sapiens (human)]
+Other Aliases: PVALB
+Other Designations: myoglobin
+Chromosome: 22; Location: 22q12.3
+Annotation: Chromosome 22 NC_000022.11 (35606764..35623354, complement)
+MIM: 160000
+ID: 4151
+
+108. MIR1207
+Official Symbol: MIR1207 and Name: microRNA 1207 [Homo sapiens (human)]
+Other Aliases: MIRN1207, hsa-mir-1207
+Chromosome: 8; Location: 8q24.21
+Annotation: Chromosome 8 NC_000008.11 (128049152..128049238)
+ID: 100302175
+
+109. MIR146A
+Official Symbol: MIR146A and Name: microRNA 146a [Homo sapiens (human)]
+Other Aliases: MIRN146, MIRN146A, miR-146a, miRNA146A
+Other Designations: hsa-mir-146; hsa-mir-146a
+Chromosome: 5; Location: 5q33.3
+Annotation: Chromosome 5 NC_000005.10 (160485352..160485450)
+MIM: 610566
+ID: 406938
+
+110. MMP3
+Official Symbol: MMP3 and Name: matrix metallopeptidase 3 [Homo sapiens (human)]
+Other Aliases: CHDS6, MMP-3, SL-1, STMY, STMY1, STR1
+Other Designations: stromelysin-1; matrix metalloproteinase 3 (stromelysin 1, progelatinase); proteoglycanase; transin-1
+Chromosome: 11; Location: 11q22.2
+Annotation: Chromosome 11 NC_000011.10 (102835801..102843609, complement)
+MIM: 185250
+ID: 4314
+
+111. MTHFR
+Official Symbol: MTHFR and Name: methylenetetrahydrofolate reductase [Homo sapiens (human)]
+Other Designations: methylenetetrahydrofolate reductase; 5,10-methylenetetrahydrofolate reductase (NADPH); methylenetetrahydrofolate reductase (NAD(P)H)
+Chromosome: 1; Location: 1p36.22
+Annotation: Chromosome 1 NC_000001.11 (11785723..11806103, complement)
+MIM: 607093
+ID: 4524
+
+112. MTOR
+Official Symbol: MTOR and Name: mechanistic target of rapamycin kinase [Homo sapiens (human)]
+Other Aliases: FRAP, FRAP1, FRAP2, RAFT1, RAPT1, SKS
+Other Designations: serine/threonine-protein kinase mTOR; FK506 binding protein 12-rapamycin associated protein 2; FK506-binding protein 12-rapamycin complex-associated protein 1; FKBP-rapamycin associated protein; FKBP12-rapamycin complex-associated protein 1; mammalian target of rapamycin; mechanistic target of rapamycin (serine/threonine kinase); rapamycin and FKBP12 target 1; rapamycin associated protein FRAP2; rapamycin target protein 1
+Chromosome: 1; Location: 1p36.22
+Annotation: Chromosome 1 NC_000001.11 (11106535..11273497, complement)
+MIM: 601231
+ID: 2475
+
+113. MUC1
+Official Symbol: MUC1 and Name: mucin 1, cell surface associated [Homo sapiens (human)]
+Other Aliases: ADMCKD, ADMCKD1, ADTKD2, CA 15-3, CD227, EMA, H23AG, KL-6, MAM6, MCD, MCKD, MCKD1, MUC-1, MUC-1/SEC, MUC-1/X/ZD, PEM, PEMT, PUM, MUC1
+Other Designations: mucin-1; H23 antigen; breast carcinoma-associated antigen DF3; cancer antigen 15-3; carcinoma-associated mucin; episialin; krebs von den Lungen-6; mucin 1, transmembrane; peanut-reactive urinary mucin; polymorphic epithelial mucin; tumor associated epithelial mucin; tumor-associated epithelial membrane antigen
+Chromosome: 1; Location: 1q22
+Annotation: Chromosome 1 NC_000001.11 (155185824..155192915, complement)
+MIM: 158340
+ID: 4582
+
+114. MUC5AC
+Official Symbol: MUC5AC and Name: mucin 5AC, oligomeric mucus/gel-forming [Homo sapiens (human)]
+Other Aliases: MUC5, TBM, leB, mucin
+Other Designations: mucin-5AC; gastric mucin; lewis B blood group antigen; major airway glycoprotein; mucin 5, subtypes A and C, tracheobronchial/gastric; mucin 5AC, oligomeric mucus/gel-forming pseudogene; mucin-5 subtype AC, tracheobronchial; tracheobronchial mucin
+Chromosome: 11; Location: 11p15.5
+Annotation: Chromosome 11 NC_000011.10 (1157953..1201138)
+MIM: 158373
+ID: 4586
+
+115. N
+nucleocapsid phosphoprotein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp10
+Other Designations: nucleocapsid phosphoprotein
+Annotation:  NC_045512.2 (28274..29533)
+ID: 43740575
+
+116. NCAM1
+Official Symbol: NCAM1 and Name: neural cell adhesion molecule 1 [Homo sapiens (human)]
+Other Aliases: CD56, MSK39, NCAM
+Other Designations: neural cell adhesion molecule 1; antigen recognized by monoclonal antibody 5.1H11; neural cell adhesion molecule, NCAM
+Chromosome: 11; Location: 11q23.2
+Annotation: Chromosome 11 NC_000011.10 (112961420..113278436)
+MIM: 116930
+ID: 4684
+
+117. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (human; man). [Homo sapiens (human)]
+ID: 192343
+
+118. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (COVID-19; COVID-19 virus; COVID19; HCoV-19; Human coronavirus 2019; SARS-2; SARS-CoV2; SARS2; Wuhan coronavirus). [Severe acute respiratory syndrome coronavirus 2]
+ID: 43562271
+
+119. NFE2L2
+Official Symbol: NFE2L2 and Name: nuclear factor, erythroid 2 like 2 [Homo sapiens (human)]
+Other Aliases: HEBP1, IMDDHH, NRF2, Nrf-2
+Other Designations: nuclear factor erythroid 2-related factor 2; nuclear factor erythroid-derived 2-like 2
+Chromosome: 2; Location: 2q31.2
+Annotation: Chromosome 2 NC_000002.12 (177230303..177265131, complement)
+MIM: 600492
+ID: 4780
+
+120. NLRP3
+Official Symbol: NLRP3 and Name: NLR family pyrin domain containing 3 [Homo sapiens (human)]
+Other Aliases: AGTAVPRL, AII, AVP, C1orf7, CIAS1, CLR1.1, DFNA34, FCAS, FCAS1, FCU, KEFH, MWS, NALP3, PYPAF1
+Other Designations: NACHT, LRR and PYD domains-containing protein 3; NACHT domain-, leucine-rich repeat-, and PYD-containing protein 3; NACHT, LRR and PYD containing protein 3; PYRIN-containing APAF1-like protein 1; caterpiller protein 1.1; cold autoinflammatory syndrome 1 protein; cold-induced autoinflammatory syndrome 1 protein; cryopyrin; cryopyrin, NACHT, LRR and PYD domains - containing protein 3; deafness, autosomal dominant 34; nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 3
+Chromosome: 1; Location: 1q44
+Annotation: Chromosome 1 NC_000001.11 (247416163..247448823)
+MIM: 606416
+ID: 114548
+
+
+121. NOS3
+Official Symbol: NOS3 and Name: nitric oxide synthase 3 [Homo sapiens (human)]
+Other Aliases: ECNOS, eNOS
+Other Designations: nitric oxide synthase, endothelial; EC-NOS; NOS type III; NOSIII; cNOS; constitutive NOS; endothelial NOS; nitric oxide synthase 3 (endothelial cell); nitric oxide synthase 3 transcript variant eNOS-delta20; nitric oxide synthase 3 transcript variant eNOS-delta20-21; nitric oxide synthase 3 transcript variant eNOS-delta21
+Chromosome: 7; Location: 7q36.1
+Annotation: Chromosome 7 NC_000007.14 (150991017..151014588)
+MIM: 163729
+ID: 4846
+
+122. NPPB
+Official Symbol: NPPB and Name: natriuretic peptide B [Homo sapiens (human)]
+Other Aliases: BNP, Iso-ANP
+Other Designations: natriuretic peptides B; brain natriuretic factor prohormone; brain type natriuretic peptide; gamma-brain natriuretic peptide; natriuretic peptide precursor B; natriuretic protein; preproBNP; proBNP
+Chromosome: 1; Location: 1p36.22
+Annotation: Chromosome 1 NC_000001.11 (11857464..11858945, complement)
+MIM: 600295
+ID: 4879
+
+123. NRP1
+Official Symbol: NRP1 and Name: neuropilin 1 [Homo sapiens (human)]
+Other Aliases: BDCA4, CD304, NP1, NRP, VEGF165R
+Other Designations: neuropilin-1; transmembrane receptor; vascular endothelial cell growth factor 165 receptor
+Chromosome: 10; Location: 10p11.22
+Annotation: Chromosome 10 NC_000010.11 (33177493..33334667, complement)
+MIM: 602069
+ID: 8829
+
+124. ORF10
+ORF10 protein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp11
+Other Designations: ORF10 protein
+Annotation:  NC_045512.2 (29558..29674)
+ID: 43740576
+
+125. ORF1ab
+ORF1a polyprotein;ORF1ab polyprotein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp01
+Other Designations: ORF1a polyprotein;ORF1ab polyprotein
+Annotation:  NC_045512.2 (266..21555)
+ID: 43740578
+
+126. ORF3a
+ORF3a protein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp03
+Other Designations: ORF3a protein
+Annotation:  NC_045512.2 (25393..26220)
+ID: 43740569
+
+127. ORF6
+ORF6 protein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp06
+Other Designations: ORF6 protein
+Annotation:  NC_045512.2 (27202..27387)
+ID: 43740572
+
+128. ORF7a
+ORF7a protein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp07
+Other Designations: ORF7a protein
+Annotation:  NC_045512.2 (27394..27759)
+ID: 43740573
+
+129. ORF7b
+ORF7b [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp08
+Other Designations: ORF7b
+Annotation:  NC_045512.2 (27756..27887)
+ID: 43740574
+
+130. ORF8
+ORF8 protein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp09
+Other Designations: ORF8 protein
+Annotation:  NC_045512.2 (27894..28259)
+ID: 43740577
+
+131. P2RX7
+Official Symbol: P2RX7 and Name: purinergic receptor P2X 7 [Homo sapiens (human)]
+Other Aliases: P2X7
+Other Designations: P2X purinoceptor 7; ATP receptor; P2X7 receptor; P2Z receptor; purinergic receptor P2X, ligand gated ion channel, 7; purinergic receptor P2X7 variant A; purnergic receptor P2X 7
+Chromosome: 12; Location: 12q24.31
+Annotation: Chromosome 12 NC_000012.12 (121132819..121188032)
+MIM: 602566
+ID: 5027
+
+132. P2RY14
+Official Symbol: P2RY14 and Name: purinergic receptor P2Y14 [Homo sapiens (human)]
+Other Aliases: BPR105, GPR105, P2Y14
+Other Designations: P2Y purinoceptor 14; G protein coupled receptor for UDP-glucose; G-protein coupled receptor 105; P2Y(14) receptor; P2Y14 receptor; UDP-glucose receptor; purinergic receptor P2Y, G-protein coupled, 14
+Chromosome: 3; Location: 3q25.1
+Annotation: Chromosome 3 NC_000003.12 (151212115..151279167, complement)
+MIM: 610116
+ID: 9934
+
+133. PAFAH1B1
+Official Symbol: PAFAH1B1 and Name: platelet activating factor acetylhydrolase 1b regulatory subunit 1 [Homo sapiens (human)]
+Other Aliases: LIS1, LIS2, MDCR, MDS, NudF, PAFAH
+Other Designations: platelet-activating factor acetylhydrolase IB subunit beta; lissencephaly 1 protein; platelet-activating factor acetylhydrolase 1b, regulatory subunit 1 (45kDa)
+Chromosome: 17; Location: 17p13.3
+Annotation: Chromosome 17 NC_000017.11 (2593210..2685617)
+MIM: 601545
+ID: 5048
+
+134. PARP14
+Official Symbol: PARP14 and Name: poly(ADP-ribose) polymerase family member 14 [Homo sapiens (human)]
+Other Aliases: ARTD8, BAL2, PARP-14, pART8
+Other Designations: protein mono-ADP-ribosyltransferase PARP14; ADP-ribosyltransferase diphtheria toxin-like 8; B-aggressive lymphoma 2; b aggressive lymphoma protein 2; collaborator of STAT6; poly [ADP-ribose] polymerase 14
+Chromosome: 3; Location: 3q21.1
+Annotation: Chromosome 3 NC_000003.12 (122680726..122730840)
+MIM: 610028
+ID: 54625
+
+135. PLAUR
+Official Symbol: PLAUR and Name: plasminogen activator, urokinase receptor [Homo sapiens (human)]
+Other Aliases: CD87, U-PAR, UPAR, URKR
+Other Designations: urokinase plasminogen activator surface receptor; monocyte activation antigen Mo3; u-plasminogen activator receptor form 2; urokinase-type plasminogen activator (uPA) receptor
+Chromosome: 19; Location: 19q13.31
+Annotation: Chromosome 19 NC_000019.10 (43646095..43670197, complement)
+MIM: 173391
+ID: 5329
+
+136. Pparg
+Official Symbol: Pparg and Name: peroxisome proliferator-activated receptor gamma [Rattus norvegicus (Norway rat)]
+Other Designations: peroxisome proliferator-activated receptor gamma; PPAR-gamma; nuclear receptor subfamily 1 group C member 3; peroxisome proliferator activator receptor, gamma
+Chromosome: 4; Location: 4q42
+Annotation: Chromosome 4 NC_051339.1 (148423102..148548471)
+ID: 25664
+
+137. PRF1
+Official Symbol: PRF1 and Name: perforin 1 [Homo sapiens (human)]
+Other Aliases: HPLH2, P1, PFP
+Other Designations: perforin-1; cytolysin; lymphocyte pore-forming protein; perforin 1 (pore forming protein)
+Chromosome: 10; Location: 10q22.1
+Annotation: Chromosome 10 NC_000010.11 (70597348..70602741, complement)
+MIM: 170280
+ID: 5551
+
+138. PTGDR2
+Official Symbol: PTGDR2 and Name: prostaglandin D2 receptor 2 [Homo sapiens (human)]
+Other Aliases: CD294, CRTH2, DL1R, DP2, GPR44
+Other Designations: prostaglandin D2 receptor 2; G-protein coupled receptor 44; chemoattractant receptor homologous molecule expressed on T helper type 2 cells; chemoattractant receptor-homologous molecule expressed on TH2 cells; putative G-protein coupled receptor 44
+Chromosome: 11; Location: 11q12.2
+Annotation: Chromosome 11 NC_000011.10 (60850933..60855950, complement)
+MIM: 604837
+ID: 11251
+
+139. PTX3
+Official Symbol: PTX3 and Name: pentraxin 3 [Homo sapiens (human)]
+Other Aliases: TNFAIP5, TSG-14
+Other Designations: pentraxin-related protein PTX3; TNF alpha-induced protein 5; long pentraxin 3; tumor necrosis factor alpha-induced protein 5; tumor necrosis factor-inducible gene 14 protein; tumor necrosis factor-inducible protein TSG-14
+Chromosome: 3; Location: 3q25.32
+Annotation: Chromosome 3 NC_000003.12 (157436850..157443633)
+MIM: 602492
+ID: 5806
+
+140. REN
+Official Symbol: REN and Name: renin [Homo sapiens (human)]
+Other Aliases: ADTKD4, HNFJ2, RTD
+Other Designations: renin; angiotensin-forming enzyme; angiotensinogenase; renin precursor, renal
+Chromosome: 1; Location: 1q32.1
+Annotation: Chromosome 1 NC_000001.11 (204154819..204166337, complement)
+MIM: 179820
+ID: 5972
+
+
+141. S
+surface glycoprotein [Severe acute respiratory syndrome coronavirus 2]
+Other Aliases: GU280_gp02, spike glycoprotein
+Other Designations: surface glycoprotein
+Annotation:  NC_045512.2 (21563..25384)
+ID: 43740568
+
+142. S
+spike glycoprotein [SARS coronavirus Tor2]
+Other Aliases: sars2, E2
+Other Designations: spike glycoprotein
+Annotation:  NC_004718.3 (21492..25259)
+ID: 1489668
+
+143. S100A8
+Official Symbol: S100A8 and Name: S100 calcium binding protein A8 [Homo sapiens (human)]
+Other Aliases: 60B8AG, CAGA, CFAG, CGLA, CP-10, L1Ag, MA387, MIF, MRP8, NIF, P8
+Other Designations: protein S100-A8; calgranulin A; calprotectin L1L subunit; cystic fibrosis antigen; leukocyte L1 complex light chain; migration inhibitory factor-related protein 8; urinary stone protein band A
+Chromosome: 1; Location: 1q21.3
+Annotation: Chromosome 1 NC_000001.11 (153390032..153422583, complement)
+MIM: 123885
+ID: 6279
+
+144. S100A9
+Official Symbol: S100A9 and Name: S100 calcium binding protein A9 [Homo sapiens (human)]
+Other Aliases: 60B8AG, CAGB, CFAG, CGLB, L1AG, LIAG, MAC387, MIF, MRP14, NIF, P14
+Other Designations: protein S100-A9; MRP-14; calgranulin B; calprotectin L1H subunit; leukocyte L1 complex heavy chain; migration inhibitory factor-related protein 14
+Chromosome: 1; Location: 1q21.3
+Annotation: Chromosome 1 NC_000001.11 (153357854..153361023)
+MIM: 123886
+ID: 6280
+
+145. SERPINA1
+Official Symbol: SERPINA1 and Name: serpin family A member 1 [Homo sapiens (human)]
+Other Aliases: A1A, A1AT, AAT, PI, PI1, PRO2275, alpha1AT, nNIF
+Other Designations: alpha-1-antitrypsin; alpha-1 antitrypsin; alpha-1 protease inhibitor; alpha-1-antiproteinase; alpha-1-antitrypsin short transcript variant 1C4; alpha-1-antitrypsin short transcript variant 1C5; epididymis secretory sperm binding protein; protease inhibitor 1 (anti-elastase), alpha-1-antitrypsin; serine (or cysteine) proteinase inhibitor, clade A, member 1; serpin A1; serpin peptidase inhibitor clade A (alpha-1antiproteinase, antitrypsin) member 1; serpin peptidase inhibitor clade A member 1; serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+Chromosome: 14; Location: 14q32.13
+Annotation: Chromosome 14 NC_000014.9 (94376747..94390654, complement)
+MIM: 107400
+ID: 5265
+
+146. SERPINC1
+Official Symbol: SERPINC1 and Name: serpin family C member 1 [Homo sapiens (human)]
+Other Aliases: AT3, AT3D, ATIII, ATIII-R2, ATIII-T1, ATIII-T2, THPH7
+Other Designations: antithrombin-III; serine (or cysteine) proteinase inhibitor, clade C (antithrombin), member 1; serpin peptidase inhibitor clade C member 1; serpin peptidase inhibitor, clade C (antithrombin), member 1
+Chromosome: 1; Location: 1q25.1
+Annotation: Chromosome 1 NC_000001.11 (173903800..173917327, complement)
+MIM: 107300
+ID: 462
+
+147. SERPING1
+Official Symbol: SERPING1 and Name: serpin family G member 1 [Homo sapiens (human)]
+Other Aliases: C1IN, C1INH, C1NH, HAE1, HAE2
+Other Designations: plasma protease C1 inhibitor; C1 esterase inhibitor; C1-inhibiting factor; C1-inhibitor; complement component 1 inhibitor; epididymis secretory sperm binding protein; serine/cysteine proteinase inhibitor clade G member 1; serpin G1; serpin peptidase inhibitor clade G member 1; serpin peptidase inhibitor, clade G (C1 inhibitor), member 1
+Chromosome: 11; Location: 11q12.1
+Annotation: Chromosome 11 NC_000011.10 (57597685..57614848)
+MIM: 606860
+ID: 710
+
+148. SIGMAR1
+Official Symbol: SIGMAR1 and Name: sigma non-opioid intracellular receptor 1 [Homo sapiens (human)]
+Other Aliases: ALS16, DSMA2, OPRS1, SIG-1R, SR-BP, SR-BP1, SRBP, hSigmaR1, sigma1R
+Other Designations: sigma non-opioid intracellular receptor 1; SR31747 binding protein 1; aging-associated gene 8 protein; sigma 1-type opioid receptor
+Chromosome: 9; Location: 9p13.3
+Annotation: Chromosome 9 NC_000009.12 (34634722..34637787, complement)
+MIM: 601978
+ID: 10280
+
+149. SLC6A19
+Official Symbol: SLC6A19 and Name: solute carrier family 6 member 19 [Homo sapiens (human)]
+Other Aliases: B0AT1, HND
+Other Designations: sodium-dependent neutral amino acid transporter B(0)AT1; sodium-dependent amino acid transporter system B0; solute carrier family 6 (neurotransmitter transporter), member 19; solute carrier family 6 (neutral amino acid transporter), member 19; system B(0) neutral amino acid transporter AT1; system B0 neutral amino acid transporter
+Chromosome: 5; Location: 5p15.33
+Annotation: Chromosome 5 NC_000005.10 (1201595..1225111)
+MIM: 608893
+ID: 340024
+
+150. SLC6A20
+Official Symbol: SLC6A20 and Name: solute carrier family 6 member 20 [Homo sapiens (human)]
+Other Aliases: IMINO, SIT1, XT3, Xtrp3
+Other Designations: sodium- and chloride-dependent transporter XTRP3; X transporter protein 3; neurotransmitter transporter RB21A; orphan transporter XT3; sodium-dependent imino acid transporter 1; sodium/imino-acid transporter 1; solute carrier family 6 (neurotransmitter transporter), member 20; solute carrier family 6 (proline IMINO transporter), member 20; transporter rB21A homolog
+Chromosome: 3; Location: 3p21.31
+Annotation: Chromosome 3 NC_000003.12 (45755449..45796553, complement)
+MIM: 605616
+ID: 54716
+
+151. SOCS1
+Official Symbol: SOCS1 and Name: suppressor of cytokine signaling 1 [Homo sapiens (human)]
+Other Aliases: CIS1, CISH1, JAB, SOCS-1, SSI-1, SSI1, TIP-3, TIP3
+Other Designations: suppressor of cytokine signaling 1; JAK binding protein; STAT induced SH3 protein 1; STAT-induced STAT inhibitor 1; Tec-interacting protein 3; cytokine-inducible SH2 protein 1
+Chromosome: 16; Location: 16p13.13
+Annotation: Chromosome 16 NC_000016.10 (11254417..11256204, complement)
+MIM: 603597
+ID: 8651
+
+152. SOCS3
+Official Symbol: SOCS3 and Name: suppressor of cytokine signaling 3 [Homo sapiens (human)]
+Other Aliases: ATOD4, CIS3, Cish3, SOCS-3, SSI-3, SSI3
+Other Designations: suppressor of cytokine signaling 3; STAT-induced STAT inhibitor 3; cytokine-inducible SH2 protein 3
+Chromosome: 17; Location: 17q25.3
+Annotation: Chromosome 17 NC_000017.11 (78356778..78360925, complement)
+MIM: 604176
+ID: 9021
+
+153. SOD3
+Official Symbol: SOD3 and Name: superoxide dismutase 3 [Homo sapiens (human)]
+Other Aliases: EC-SOD
+Other Designations: extracellular superoxide dismutase [Cu-Zn]; superoxide dismutase 3, extracellular; testicular tissue protein Li 175
+Chromosome: 4; Location: 4p15.2
+Annotation: Chromosome 4 NC_000004.12 (24795478..24800845)
+MIM: 185490
+ID: 6649
+
+154. SREBF2
+Official Symbol: SREBF2 and Name: sterol regulatory element binding transcription factor 2 [Homo sapiens (human)]
+Other Aliases: SREBP-2, SREBP2, bHLHd2
+Other Designations: sterol regulatory element-binding protein 2; class D basic helix-loop-helix protein 2
+Chromosome: 22; Location: 22q13.2
+Annotation: Chromosome 22 NC_000022.11 (41833105..41907308)
+MIM: 600481
+ID: 6721
+
+155. STAT1
+Official Symbol: STAT1 and Name: signal transducer and activator of transcription 1 [Homo sapiens (human)]
+Other Aliases: CANDF7, IMD31A, IMD31B, IMD31C, ISGF-3, STAT91
+Other Designations: signal transducer and activator of transcription 1-alpha/beta; signal transducer and activator of transcription 1, 91kD; signal transducer and activator of transcription 1, 91kDa; transcription factor ISGF-3 components p91/p84
+Chromosome: 2; Location: 2q32.2
+Annotation: Chromosome 2 NC_000002.12 (190968989..191014197, complement)
+MIM: 600555
+ID: 6772
+
+156. STAT3
+Official Symbol: STAT3 and Name: signal transducer and activator of transcription 3 [Homo sapiens (human)]
+Other Aliases: ADMIO, ADMIO1, APRF, HIES
+Other Designations: signal transducer and activator of transcription 3; DNA-binding protein APRF; acute-phase response factor
+Chromosome: 17; Location: 17q21.2
+Annotation: Chromosome 17 NC_000017.11 (42313324..42388502, complement)
+MIM: 102582
+ID: 6774
+
+157. STING1
+Official Symbol: STING1 and Name: stimulator of interferon response cGAMP interactor 1 [Homo sapiens (human)]
+Other Aliases: ERIS, MITA, MPYS, NET23, SAVI, STING, STING-beta, TMEM173, hMITA, hSTING
+Other Designations: stimulator of interferon genes protein; N-terminal methionine-proline-tyrosine-serine plasma membrane tetraspanner; endoplasmic reticulum IFN stimulator; endoplasmic reticulum interferon stimulator; mitochondrial mediator of IRF3 activation; stimulator of interferon protein; transmembrane protein 173
+Chromosome: 5; Location: 5q31.2
+Annotation: Chromosome 5 NC_000005.10 (139475533..139482758, complement)
+MIM: 612374
+ID: 340061
+
+158. TAS2R1
+Official Symbol: TAS2R1 and Name: taste 2 receptor member 1 [Homo sapiens (human)]
+Other Aliases: T2R1, TRB7
+Other Designations: taste receptor type 2 member 1; taste receptor, family B, member 7; taste receptor, type 2, member 1
+Chromosome: 5; Location: 5p15.31
+Annotation: Chromosome 5 NC_000005.10 (9627347..9903876, complement)
+MIM: 604796
+ID: 50834
+
+159. TGFB1
+Official Symbol: TGFB1 and Name: transforming growth factor beta 1 [Homo sapiens (human)]
+Other Aliases: CED, DPD1, IBDIMDE, LAP, TGF-beta1, TGFB, TGFbeta
+Other Designations: transforming growth factor beta-1 proprotein; TGF-beta-1; latency-associated peptide; prepro-transforming growth factor beta-1; transforming growth factor beta1
+Chromosome: 19; Location: 19q13.2
+Annotation: Chromosome 19 NC_000019.10 (41330323..41353922, complement)
+MIM: 190180
+ID: 7040
+
+160. TLR4
+Official Symbol: TLR4 and Name: toll like receptor 4 [Homo sapiens (human)]
+Other Aliases: ARMD10, CD284, TLR-4, TOLL
+Other Designations: toll-like receptor 4; hToll; homolog of Drosophila toll; toll like receptor 4 protein
+Chromosome: 9; Location: 9q33.1
+Annotation: Chromosome 9 NC_000009.12 (117704403..117724735)
+MIM: 603030
+ID: 7099
+
+
+161. TLR7
+Official Symbol: TLR7 and Name: toll like receptor 7 [Homo sapiens (human)]
+Other Aliases: IMD74-like, TLR7
+Other Designations: toll-like receptor 7; toll-like receptor 7-like
+Chromosome: X; Location: Xp22.2
+Annotation: Chromosome X NC_000023.11 (12867072..12890361)
+MIM: 300365
+ID: 51284
+
+162. TMPRSS2
+Official Symbol: TMPRSS2 and Name: transmembrane serine protease 2 [Homo sapiens (human)]
+Other Aliases: PRSS10
+Other Designations: transmembrane protease serine 2; epitheliasin; serine protease 10; transmembrane protease, serine 2
+Chromosome: 21; Location: 21q22.3
+Annotation: Chromosome 21 NC_000021.9 (41464305..41508158, complement)
+MIM: 602060
+ID: 7113
+
+163. Tmprss2
+Official Symbol: Tmprss2 and Name: transmembrane protease, serine 2 [Mus musculus (house mouse)]
+Other Aliases: D16Ertd61, D16Ertd61e
+Other Designations: transmembrane protease serine 2; epitheliasin; plasmic transmembrane protein X
+Chromosome: 16; Location: 16 57.53 cM
+Annotation: Chromosome 16 NC_000082.7 (97365882..97460741, complement)
+ID: 50528
+
+164. Tmprss2
+Official Symbol: Tmprss2 and Name: transmembrane serine protease 2 [Rattus norvegicus (Norway rat)]
+Other Designations: transmembrane protease serine 2; transmembrane protease, serine 2
+Chromosome: 11; Location: 11q12
+Annotation: Chromosome 11 NC_051346.1 (36934306..36973779, complement)
+ID: 156435
+
+165. TMPRSS2
+transmembrane serine protease 2 [Chlorocebus sabaeus (green monkey)]
+Other Designations: transmembrane protease serine 2; transmembrane protease, serine 2
+Chromosome: Un
+ID: 103219191
+
+166. TNF
+Official Symbol: TNF and Name: tumor necrosis factor [Homo sapiens (human)]
+Other Aliases: DIF-alpha, TNFA, TNFSF2, TNLG1F, TNF
+Other Designations: tumor necrosis factor; APC1 protein; TNF, macrophage-derived; TNF, monocyte-derived; TNF-a; tumor necrosis factor ligand 1F; tumor necrosis factor ligand superfamily member 2; tumor necrosis factor-alpha
+Chromosome: 6; Location: 6p21.33
+Annotation: Chromosome 6 NC_000006.12 (31575565..31578336)
+MIM: 191160
+ID: 7124
+
+167. TNFSF14
+Official Symbol: TNFSF14 and Name: TNF superfamily member 14 [Homo sapiens (human)]
+Other Aliases: CD258, HVEML, LIGHT, LTg
+Other Designations: tumor necrosis factor ligand superfamily member 14; herpesvirus entry mediator ligand; tumor necrosis factor (ligand) superfamily, member 14; tumor necrosis factor ligand 1D; tumor necrosis factor superfamily member 14
+Chromosome: 19; Location: 19p13.3
+Annotation: Chromosome 19 NC_000019.10 (6658126..6670595, complement)
+MIM: 604520
+ID: 8740
+
+168. TNNI1
+Official Symbol: TNNI1 and Name: troponin I1, slow skeletal type [Homo sapiens (human)]
+Other Aliases: SSTNI, TNN1
+Other Designations: troponin I, slow skeletal muscle; troponin I type 1 (skeletal, slow)
+Chromosome: 1; Location: 1q32.1
+Annotation: Chromosome 1 NC_000001.11 (201403784..201421730, complement)
+MIM: 191042
+ID: 7135
+
+169. TNNI3
+Official Symbol: TNNI3 and Name: troponin I3, cardiac type [Homo sapiens (human)]
+Other Aliases: CMD1FF, CMD2A, CMH7, RCM1, TNNC1, cTnI
+Other Designations: troponin I, cardiac muscle; cardiomyopathy, dilated 2A (autosomal recessive); troponin I type 3 (cardiac)
+Chromosome: 19; Location: 19q13.42
+Annotation: Chromosome 19 NC_000019.10 (55151767..55157732, complement)
+MIM: 191044
+ID: 7137
+
+170. TNNT2
+Official Symbol: TNNT2 and Name: troponin T2, cardiac type [Homo sapiens (human)]
+Other Aliases: CMD1D, CMH2, CMPD2, LVNC6, RCM3, TnTC, cTnT
+Other Designations: troponin T, cardiac muscle; cardiomyopathy, dilated 1D (autosomal dominant); cardiomyopathy, hypertrophic 2; troponin T type 2 (cardiac); truncated cardiac troponin T
+Chromosome: 1; Location: 1q32.1
+Annotation: Chromosome 1 NC_000001.11 (201359014..201377828, complement)
+MIM: 191045
+ID: 7139
+
+171. TRPA1
+Official Symbol: TRPA1 and Name: transient receptor potential cation channel subfamily A member 1 [Homo sapiens (human)]
+Other Aliases: ANKTM1, FEPS, FEPS1
+Other Designations: transient receptor potential cation channel subfamily A member 1; ankyrin-like with transmembrane domains 1; transformation-sensitive protein p120; wasabi receptor
+Chromosome: 8; Location: 8q21.11
+Annotation: Chromosome 8 NC_000008.11 (72021250..72094885, complement)
+MIM: 604775
+ID: 8989
+
+172. TRPV1
+Official Symbol: TRPV1 and Name: transient receptor potential cation channel subfamily V member 1 [Homo sapiens (human)]
+Other Aliases: VR1
+Other Designations: transient receptor potential cation channel subfamily V member 1; OTRPC1; capsaicin receptor; osm-9-like TRP channel 1; transient receptor potential vanilloid 1a; transient receptor potential vanilloid 1b; vanilloid receptor subtype 1
+Chromosome: 17; Location: 17p13.2
+Annotation: Chromosome 17 NC_000017.11 (3565446..3609411, complement)
+MIM: 602076
+ID: 7442
+
+173. TTR
+Official Symbol: TTR and Name: transthyretin [Homo sapiens (human)]
+Other Aliases: ATTR, CTS, CTS1, HEL111, HsT2651, PALB, TBPA, TTN
+Other Designations: transthyretin; epididymis luminal protein 111; prealbumin, amyloidosis type I; thyroxine-binding prealbumin
+Chromosome: 18; Location: 18q12.1
+Annotation: Chromosome 18 NC_000018.10 (31591877..31598821)
+MIM: 176300
+ID: 7276
+
+174. UBE2L6
+Official Symbol: UBE2L6 and Name: ubiquitin conjugating enzyme E2 L6 [Homo sapiens (human)]
+Other Aliases: RIG-B, UBCH8
+Other Designations: ubiquitin/ISG15-conjugating enzyme E2 L6; E2 ubiquitin-conjugating enzyme L6; retinoic acid induced gene B protein; ubiquitin carrier protein L6; ubiquitin conjugating enzyme E2L 6; ubiquitin-protein ligase L6
+Chromosome: 11; Location: 11q12.1
+Annotation: Chromosome 11 NC_000011.10 (57551662..57567935, complement)
+MIM: 603890
+ID: 9246
+
+175. VKORC1
+Official Symbol: VKORC1 and Name: vitamin K epoxide reductase complex subunit 1 [Homo sapiens (human)]
+Other Aliases: EDTP308, MST134, MST576, VKCFD2, VKOR
+Other Designations: vitamin K epoxide reductase complex subunit 1; phylloquinone epoxide reductase; vitamin K dependent clotting factors deficiency 2; vitamin K1 2,3-epoxide reductase subunit 1; vitamin K1 epoxide reductase (warfarin-sensitive)
+Chromosome: 16; Location: 16p11.2
+Annotation: Chromosome 16 NC_000016.10 (31090854..31094797, complement)
+MIM: 608547
+ID: 79001
+
+176. VWF
+Official Symbol: VWF and Name: von Willebrand factor [Homo sapiens (human)]
+Other Aliases: F8VWF, VWD
+Other Designations: von Willebrand factor; coagulation factor VIII VWF
+Chromosome: 12; Location: 12p13.31
+Annotation: Chromosome 12 NC_000012.12 (5948877..6124670, complement)
+MIM: 613160
+ID: 7450
+

@@ -1,0 +1,781 @@
+histo_blood group ABO system transferase
+ABO blood group
+B alpha_1,3_galactosyltransferase
+histo_blood group A2 transferase
+angiotensin_converting enzyme
+CD143 antigen
+angiotensin I converting enzyme 1
+carboxycathepsin
+dipeptidyl carboxypeptidase 1
+dipeptidyl carboxypeptidase I
+kininase II
+peptidase P
+angiotensin_converting enzyme 2
+ACE_related carboxypeptidase
+angiotensin I converting enzyme 2
+angiotensin_converting enzyme homolog
+angiotensin_converting enzyme_related carboxypeptidase
+metalloprotease MPROT15
+peptidyl_dipeptidase A
+truncated angiotensin converting enzyme 2
+anigotensin_converting enzyme_related carboxypeptidase
+renal angiotensin_converting enzyme 2
+disintegrin and metalloproteinase domain_containing protein 17
+ADAM metallopeptidase domain 18
+TNF_alpha convertase
+TNF_alpha convertase enzyme
+TNF_alpha converting enzyme
+a disintegrin and metalloproteinase 17
+cartilage snake venom_like protease
+snake venom_like protease
+tumor necrosis factor, alpha, converting enzyme
+A disintegrin and metalloproteinase with thrombospondin motifs 13
+a disintegrin_like and metalloprotease with thrombospondin type 1 motif, 13
+vWF_cleaving protease
+von Willebrand factor_cleaving protease
+pro_adrenomedullin
+preproadrenomedullin
+proadrenomedullin N_20 terminal peptide
+advanced glycosylation end product_specific receptor
+receptor for advanced glycation end_products variant 20
+angiotensinogen
+alpha_1 antiproteinase, antitrypsin
+angiotensin I
+angiotensin II
+fetal_liver predominant transporter 1
+pre_angiotensinogen
+serine proteinase inhibitor
+serpin A8
+serpin peptidase inhibitor, clade A, member 8
+RAC_alpha serine/threonine_protein kinase
+AKT1m
+PKB alpha
+RAC_PK_alpha
+protein kinase B alpha
+proto_oncogene c_Akt
+rac protein kinase alpha
+serine_threonine protein kinase
+v_akt murine thymoma viral oncogene homolog 1
+v_akt murine thymoma viral oncogene_like protein 1
+albumin
+serum albumin
+apolipoprotein E
+apolipoprotein E3
+apolipoprotein L1
+apolipoprotein L 1
+apolipoprotein L1_B3
+androgen receptor
+dihydrotestosterone receptor
+nuclear receptor subfamily 3 group C member 4
+cyclic AMP_dependent transcription factor ATF_4
+DNA_binding protein TAXREB67
+cAMP response element_binding protein 2
+cAMP_dependent transcription factor ATF_4
+cAMP_responsive element_binding protein 2
+cyclic AMP_responsive element_binding protein 2
+tax_responsive enhancer element B67
+tax_responsive enhancer element_binding protein 67
+basigin
+OK blood group antigen
+collagenase stimulatory factor
+extracellular matrix metalloproteinase inducer
+hepatoma_associated antigen
+leukocyte activation antigen M6
+tumor cell_derived collagenase stimulatory factor
+tyrosine_protein kinase BTK
+B_cell progenitor kinase
+Bruton agammaglobulinemia tyrosine kinase
+Bruton's tyrosine kinase
+agammaglobulinaemia tyrosine kinase
+dominant_negative kinase_deficient Brutons tyrosine kinase
+truncated Bruton agammaglobulinemia tyrosine kinase
+complement C5
+C3 and PZP_like alpha_2_macroglobulin domain_containing protein 4
+C5a anaphylatoxin
+anaphylatoxin C5a analog
+complement component 5
+prepro_C5
+C5a anaphylatoxin chemotactic receptor 1
+C5a anaphylatoxin receptor
+C5a ligand
+C5a_R
+complement component 5a receptor 1
+calcitonin
+calcitonin gene_related peptide 1
+alpha_type CGRP
+calcitonin 1
+calcitonin gene_related peptide I
+calcitonin/calcitonin_related polypeptide, alpha
+katacalcin
+catalase
+epididymis secretory sperm binding protein
+C_C motif chemokine 17
+CC chemokine TARC
+T cell_directed CC chemokine
+chemokine ligand 17
+small inducible cytokine subfamily A , member 17
+small_inducible cytokine A17
+thymus and activation_regulated chemokine
+C_C motif chemokine 2
+chemokine ligand 2
+monocyte chemoattractant protein_1
+monocyte chemotactic and activating factor
+monocyte chemotactic protein 1
+monocyte secretory protein JE
+small inducible cytokine A2
+small inducible cytokine subfamily A , member 2
+small_inducible cytokine A2
+C_C motif chemokine 7
+chemokine ligand 7
+monocyte chemoattractant protein 3
+monocyte chemotactic protein 3
+small inducible cytokine A7
+small_inducible cytokine A7
+C_C chemokine receptor type 5
+C_C motif chemokine receptor 5 A159A
+HIV_1 fusion coreceptor
+chemokine receptor 5
+chemokine receptor CCR5
+chemokine recptor CCR5 Delta32
+chemr13
+C_C chemokine receptor type 9
+G protein_coupled receptor 28
+chemokine receptor 9
+monocyte differentiation antigen CD14
+myeloid cell_specific leucine_rich glycoprotein
+scavenger receptor cysteine_rich type 1 protein M130
+hemoglobin scavenger receptor
+macrophage_associated antigen
+T_cell surface glycoprotein CD4
+CD4 antigen
+CD4 receptor
+T_cell surface antigen T4/Leu_3
+T_cell surface glycoprotein CD8 alpha chain
+CD8 antigen, alpha polypeptide
+Leu2 T_lymphocyte antigen
+OKT8 T_cell antigen
+T cell co_receptor
+T_cell antigen Leu2
+T_lymphocyte differentiation antigen T8/Leu_2
+T8 T_cell antigen
+C_type lectin domain family 4 member M
+CD209 antigen_like protein 1
+CD299 antigen
+DC_SIGN_related protein
+dendritic cell_specific ICAM_3_grabbing non_integrin 2
+liver/lymph node_specific ICAM_3 grabbing non_integrin
+mannose binding C_type lectin DC_SIGNR
+C_reactive protein
+C_reactive protein, pentraxin_related
+pentraxin 1
+granulocyte_macrophage colony_stimulating factor
+colony stimulating factor 2
+granulocyte macrophage_colony stimulating factor
+molgramostim
+molgramostin
+sargramostim
+procathepsin L
+cathepsin L1
+major excreted protein
+C_X_C motif chemokine 10
+10 kDa interferon gamma_induced protein
+gamma IP10
+interferon_inducible cytokine IP_10
+protein 10 from interferon _induced cell line
+small inducible cytokine subfamily B , member 10
+small_inducible cytokine B10
+interleukin_8
+T_cell chemotactic factor
+alveolar macrophage chemotactic factor I
+beta endothelial cell_derived neutrophil activating peptide
+beta_thromboglobulin_like protein
+chemokine ligand 8
+emoctakin
+granulocyte chemotactic protein 1
+interleukin 8
+lung giant cell carcinoma_derived chemotactic protein
+lymphocyte derived neutrophil activating peptide
+monocyte_derived neutrophil chemotactic factor
+monocyte_derived neutrophil_activating peptide
+neutrophil_activating peptide 1
+small inducible cytokine subfamily B, member 8
+tumor necrosis factor_induced gene 1
+dipeptidyl peptidase 4
+ADCP_2
+DPP IV
+Gly_Pro naphthylamidase
+Post_proline dipeptidyl aminopeptidase IV
+T_cell activation antigen CD26
+Xaa_Pro_dipeptidylaminopeptidase
+adenosine deaminase complexing protein 2
+dipeptidyl peptidase IV
+dipeptidylpeptidase 4
+dipeptidylpeptidase IV
+envelope protein
+epidermal growth factor receptor
+avian erythroblastic leukemia viral oncogene homolog
+cell growth inhibiting protein 40
+cell proliferation_inducing protein 61
+epidermal growth factor receptor tyrosine kinase domain
+erb_b2 receptor tyrosine kinase 1
+proto_oncogene c_ErbB_1
+receptor tyrosine_protein kinase erbB_1
+ELAV_like protein 2
+ELAV _like 2
+ELAV like neuron_specific RNA binding protein 2
+hu_antigen B
+nervous system_specific RNA_binding protein Hel_N1
+glutamyl aminopeptidase
+AP_A
+EAP
+aminopeptidase A
+differentiation antigen gp160
+transcriptional regulator ERG
+ERG, ETS transcription factor
+FUS/ERG fusion protein
+TMPRSS2/ERG fusion
+erythroblast transformation_specific transcription factor ERG variant 10
+ets_related
+v_ets avian erythroblastosis virus E26 oncogene homolog
+v_ets avian erythroblastosis virus E26 oncogene related
+v_ets erythroblastosis virus E26 oncogene homolog
+v_ets erythroblastosis virus E26 oncogene like
+tissue factor
+coagulation factor III
+tumor necrosis factor receptor superfamily member 6
+APO_1 cell surface antigen
+CD95 antigen
+FASLG receptor
+Fas
+Fas AMA
+TNF receptor superfamily member 6
+apoptosis antigen 1
+apoptosis signaling receptor FAS
+apoptosis_mediating surface antigen FAS
+mutant tumor necrosis receptor superfamily member 6
+tumor necrosis factor receptor superfamily, member 6
+low affinity immunoglobulin gamma Fc region receptor III_A
+CD16a antigen
+Fc fragment of IgG, low affinity III, receptor for
+Fc fragment of IgG, low affinity IIIa, receptor
+Fc gamma receptor III_A
+Fc_gamma RIII_alpha
+Fc_gamma receptor III_2
+Fc_gamma receptor IIIb
+FcgammaRIIIA
+igG Fc receptor III_2
+immunoglobulin G Fc receptor III
+low affinity immunoglobulin gamma receptor III_a Fc fragment
+neutrophil_specific antigen NA
+fibronectin type III domain_containing protein 5
+fibronectin type III repeat_containing protein 2
+fMet_Leu_Phe receptor
+N_formylpeptide chemoattractant receptor
+fMLP receptor
+ferritin light chain
+ferritin L subunit
+ferritin L_chain
+ferritin light polypeptide_like 3
+ferritin, light polypeptide
+furin
+FES upstream region
+dibasic processing enzyme
+furin, membrane associated receptor protein
+paired basic amino acid residue_cleaving enzyme
+proprotein convertase subtilisin/kexin 3
+proprotein convertase subtilisin/kexin type 3
+subtilisin_like proprotein convertase 1
+glutathione S_transferase theta_1
+GST class_theta_1
+glutathione transferase T1_1
+granzyme A
+CTL tryptase
+Cytotoxic T_lymphocyte_associated serine esterase_3
+Granzyme A
+HF
+Hanukah factor serine protease)
+cytotoxic T_lymphocyte proteinase 1
+fragmentin_1
+granzyme 1
+h factor
+hepatitis A virus cellular receptor 2
+T cell immunoglobulin mucin 3
+T_cell immunoglobulin and mucin domain_containing protein 3
+T_cell immunoglobulin mucin family member 3
+T_cell immunoglobulin mucin receptor 3
+T_cell membrane protein 3
+kidney injury molecule_3
+hypoxia_inducible factor 1_alpha
+ARNT interacting protein
+PAS domain_containing protein 8
+basic_helix_loop_helix_PAS protein MOP1
+class E basic helix_loop_helix protein 78
+hypoxia inducible factor 1 alpha subunit
+hypoxia inducible factor 1, alpha subunit
+hypoxia_inducible factor1alpha
+member of PAS protein 1
+member of PAS superfamily 1
+HLA class I histocompatibility antigen, A alpha chain
+HLA class I histocompatibility antigen, A_1 alpha chain
+MHC class I antigen HLA_A heavy chain
+leukocyte antigen class I_A
+major histocompatibility complex, class I, B
+HLA class I antigen HLA_B
+HLA class I histocompatibility antigen, B alpha chain
+MHC HLA_B cell surface glycoprotein
+MHC HLA_B transmembrane glycoprotein
+MHC class 1 antigen
+MHC class I antigen HLA_B alpha chain
+MHC class I antigen HLA_B heavy chain
+MHC class I antigen SHCHA
+MHC class I molecule
+leukocyte antigen class I_B
+HLA class I histocompatibility antigen, C alpha chain
+HLA_C antigen
+MHC class I antigen heavy chain HLA_C
+human leukocyte antigen_C alpha chain
+major histocompatibility antigen HLA_C
+high mobility group protein B1
+Amphoterin
+Sulfoglucuronyl carbohydrate binding protein
+high_mobility group protein 1
+heme oxygenase 1
+heat shock protein, 32_kD
+endoplasmic reticulum chaperone BiP
+78 kDa glucose_regulated protein
+HSP70 family protein 5
+binding_immunoglobulin protein
+endoplasmic reticulum lumenal Ca_binding protein grp78
+epididymis secretory sperm binding protein Li 89n
+glucose_regulated protein, 78kDa
+heat shock 70kDa protein 5
+heat shock protein 70 family protein 5
+heat shock protein family A member 5
+immunoglobulin heavy chain_binding protein
+interferon_induced helicase C domain_containing protein 1
+CADM_140 autoantigen
+DEAD/H box polypeptide
+RIG_I_like receptor 2
+RNA helicase_DEAD box protein 116
+clinically amyopathic dermatomyositis autoantigen 140 kDa
+helicard
+helicase with 2 CARD domains
+melanoma differentiation_associated gene 5
+melanoma differentiation_associated protein 5
+murabutide down_regulated protein
+interferon_induced transmembrane protein 3
+dispanin subfamily A member 2b
+interferon_inducible protein 1_8U
+interferon alpha_1/13
+IFN_alpha_1/13
+interferon alpha 1b
+interferon alpha_D
+interferon_alpha1
+interferon alpha_2
+alpha_2a interferon
+interferon alpha 2a
+interferon alpha 2b
+interferon alpha A
+interferon beta
+fibroblast interferon
+interferon, beta 1, fibroblast
+interferon_beta
+interferon gamma
+IFN_gamma
+immune interferon
+interleukin_10
+T_cell growth inhibitory factor
+cytokine synthesis inhibitory factor
+interleukin_18
+IFN_gamma_inducing factor
+IL_1 gamma
+iboctadekin
+interleukin 18
+interleukin_1 gamma
+interleukin_1 beta
+IL_1 beta
+catabolin
+interleukin 1beta
+preinterleukin 1 beta
+pro_interleukin_1_beta
+interleukin_2 receptor subunit alpha
+IL_2 receptor subunit alpha
+IL_2R subunit alpha
+TAC antigen
+interleukin 2 receptor, alpha
+interleukin_4
+B cell growth factor 1
+B_cell stimulatory factor 1
+binetrakin
+interleukin 4 variant 2
+lymphocyte stimulatory factor 1
+pitrakinra
+interleukin_6
+B_cell differentiation factor
+B_cell stimulatory factor 2
+CTL differentiation factor
+hybridoma growth factor
+interferon beta_2
+interleukin BSF_2
+interleukin_7
+tyrosine_protein kinase ITK/TSK
+IL_2_inducible T_cell kinase
+T_cell_specific kinase
+homolog of mouse T_cell itk/tsk
+interleukin_2_inducible T_cell kinase
+kinase EMT
+tyrosine_protein kinase LYK
+tyrosine_protein kinase JAK1
+kininogen_1
+alpha_2_thiol proteinase inhibitor
+bradykinin
+fitzgerald factor
+high molecular weight kininogen
+williams_Fitzgerald_Flaujeac factor
+lymphocyte activation gene 3 protein
+lymphocyte_activation gene 3
+neutrophil gelatinase_associated lipocalin
+25 kDa alpha_2_microglobulin_related subunit of MMP_9
+migration_stimulating factor inhibitor
+oncogene 24p3
+siderocalin LCN2
+galectin_3
+35 kDa lectin
+IgE_binding protein
+MAC_2 antigen
+advanced glycation end_product receptor 3
+carbohydrate_binding protein 35
+galactose_specific lectin 3
+laminin_binding protein
+lectin L_29
+lectin, galactoside_binding, soluble, 3
+ACE2 5' regulatory region
+TMPRSS2 regulatory region N
+NKX3.1 binding site 1 in TMPRSS2 5' regulatory region
+NKX3.1 binding site 2 in TMPRSS2 5' regulatory region
+NKX3.1 binding site 4 in TMPRSS2 5' regulatory region
+TMPRSS2 _13 kb AR_responsive enhancer
+TMPRSS2 B39 enhancer
+TMPRSS2 E1 enhancer
+TMPRSS2 E2 enhancer
+TMPRSS2 _60 kb AR_responsive enhancer
+DPP4 5' regulatory region
+CD13/APN upstream promoter
+aminopeptidase N myeloid and fibroblast promoter
+CD13/APN downstream promoter
+aminopeptidase N intestinal epithelial promoter
+cathepsin L promoter
+MIRb_ACE2 retroelement_containing promoter
+CCR9 5' regulatory region
+IFNAR1 5' regulatory region
+IFNGR2 5' regulatory region
+apolipoprotein
+antiangiogenic AK38 protein
+apo
+lipoprotein, Lp
+lp
+membrane glycoprotein
+transcription factor Maf
+Avian musculoaponeurotic fibrosarcoma protooncogene
+T lymphocyte c_maf long form
+c_maf proto_oncogene
+proto_oncogene c_Maf
+v_maf avian musculoaponeurotic fibrosarcoma oncogene homolog
+transcription factor MafB
+Kreisler maf_related leucine zipper homolog
+MAFB/Kreisler basic region/leucine zipper transcription factor
+v_maf avian musculoaponeurotic fibrosarcoma oncogene homolog B
+proto_oncogene Mas
+MAS1 oncogene
+Mas_related G protein_coupled receptor A
+myoglobin
+hsa_mir_146
+hsa_mir_146a
+stromelysin_1
+matrix metalloproteinase 3
+proteoglycanase
+transin_1
+methylenetetrahydrofolate reductase
+5,10_methylenetetrahydrofolate reductase
+methylenetetrahydrofolate reductase H)
+serine/threonine_protein kinase mTOR
+FK506 binding protein 12_rapamycin associated protein 2
+FK506_binding protein 12_rapamycin complex_associated protein 1
+FKBP_rapamycin associated protein
+FKBP12_rapamycin complex_associated protein 1
+mammalian target of rapamycin
+mechanistic target of rapamycin
+rapamycin and FKBP12 target 1
+rapamycin associated protein FRAP2
+rapamycin target protein 1
+mucin_1
+H23 antigen
+breast carcinoma_associated antigen DF3
+cancer antigen 15_3
+carcinoma_associated mucin
+episialin
+krebs von den Lungen_6
+mucin 1, transmembrane
+peanut_reactive urinary mucin
+polymorphic epithelial mucin
+tumor associated epithelial mucin
+tumor_associated epithelial membrane antigen
+mucin_5AC
+gastric mucin
+lewis B blood group antigen
+major airway glycoprotein
+mucin 5, subtypes A and C, tracheobronchial/gastric
+mucin 5AC, oligomeric mucus/gel_forming pseudogene
+mucin_5 subtype AC, tracheobronchial
+tracheobronchial mucin
+nucleocapsid phosphoprotein
+neural cell adhesion molecule 1
+antigen recognized by monoclonal antibody 5.1H11
+neural cell adhesion molecule, NCAM
+nuclear factor erythroid 2_related factor 2
+nuclear factor erythroid_derived 2_like 2
+NACHT, LRR and PYD domains_containing protein 3
+NACHT domain_, leucine_rich repeat_, and PYD_containing protein 3
+NACHT, LRR and PYD containing protein 3
+PYRIN_containing APAF1_like protein 1
+caterpiller protein 1.1
+cold autoinflammatory syndrome 1 protein
+cold_induced autoinflammatory syndrome 1 protein
+cryopyrin
+cryopyrin, NACHT, LRR and PYD domains _ containing protein 3
+deafness, autosomal dominant 34
+nucleotide_binding oligomerization domain, leucine rich repeat and pyrin domain containing 3
+nitric oxide synthase, endothelial
+EC_NOS
+NOS type III
+NOSIII
+cNOS
+constitutive NOS
+endothelial NOS
+nitric oxide synthase 3
+nitric oxide synthase 3 transcript variant eNOS_delta20
+nitric oxide synthase 3 transcript variant eNOS_delta20_21
+nitric oxide synthase 3 transcript variant eNOS_delta21
+natriuretic peptides B
+brain natriuretic factor prohormone
+brain type natriuretic peptide
+gamma_brain natriuretic peptide
+natriuretic peptide precursor B
+natriuretic protein
+preproBNP
+proBNP
+neuropilin_1
+transmembrane receptor
+vascular endothelial cell growth factor 165 receptor
+ORF10 protein
+ORF1a polyprotein
+ORF1ab polyprotein
+ORF3a protein
+ORF6 protein
+ORF7a protein
+ORF7b
+ORF8 protein
+P2X purinoceptor 7
+ATP receptor
+P2X7 receptor
+P2Z receptor
+purinergic receptor P2X, ligand gated ion channel, 7
+purinergic receptor P2X7 variant A
+purnergic receptor P2X 7
+P2Y purinoceptor 14
+G protein coupled receptor for UDP_glucose
+G_protein coupled receptor 105
+P2Y receptor
+P2Y14 receptor
+UDP_glucose receptor
+purinergic receptor P2Y, G_protein coupled, 14
+platelet_activating factor acetylhydrolase IB subunit beta
+lissencephaly 1 protein
+platelet_activating factor acetylhydrolase 1b, regulatory subunit 1
+protein mono_ADP_ribosyltransferase PARP14
+ADP_ribosyltransferase diphtheria toxin_like 8
+B_aggressive lymphoma 2
+b aggressive lymphoma protein 2
+collaborator of STAT6
+poly [ADP_ribose] polymerase 14
+urokinase plasminogen activator surface receptor
+monocyte activation antigen Mo3
+u_plasminogen activator receptor form 2
+urokinase_type plasminogen activator receptor
+peroxisome proliferator_activated receptor gamma
+PPAR_gamma
+nuclear receptor subfamily 1 group C member 3
+peroxisome proliferator activator receptor, gamma
+perforin_1
+cytolysin
+lymphocyte pore_forming protein
+perforin 1
+prostaglandin D2 receptor 2
+G_protein coupled receptor 44
+chemoattractant receptor homologous molecule expressed on T helper type 2 cells
+chemoattractant receptor_homologous molecule expressed on TH2 cells
+putative G_protein coupled receptor 44
+pentraxin_related protein PTX3
+TNF alpha_induced protein 5
+long pentraxin 3
+tumor necrosis factor alpha_induced protein 5
+tumor necrosis factor_inducible gene 14 protein
+tumor necrosis factor_inducible protein TSG_14
+renin
+angiotensin_forming enzyme
+angiotensinogenase
+renin precursor, renal
+surface glycoprotein
+spike glycoprotein
+protein S100_A8
+calgranulin A
+calprotectin L1L subunit
+cystic fibrosis antigen
+leukocyte L1 complex light chain
+migration inhibitory factor_related protein 8
+urinary stone protein band A
+protein S100_A9
+MRP_14
+calgranulin B
+calprotectin L1H subunit
+leukocyte L1 complex heavy chain
+migration inhibitory factor_related protein 14
+alpha_1_antitrypsin
+alpha_1 antitrypsin
+alpha_1 protease inhibitor
+alpha_1_antiproteinase
+alpha_1_antitrypsin short transcript variant 1C4
+alpha_1_antitrypsin short transcript variant 1C5
+protease inhibitor 1 , alpha_1_antitrypsin
+serine proteinase inhibitor, clade A, member 1
+serpin A1
+serpin peptidase inhibitor clade A member 1
+serpin peptidase inhibitor, clade A , member 1
+antithrombin_III
+serine proteinase inhibitor, clade C , member 1
+serpin peptidase inhibitor clade C member 1
+serpin peptidase inhibitor, clade C , member 1
+plasma protease C1 inhibitor
+C1 esterase inhibitor
+C1_inhibiting factor
+C1_inhibitor
+complement component 1 inhibitor
+serine/cysteine proteinase inhibitor clade G member 1
+serpin G1
+serpin peptidase inhibitor clade G member 1
+serpin peptidase inhibitor, clade G , member 1
+sigma non_opioid intracellular receptor 1
+SR31747 binding protein 1
+aging_associated gene 8 protein
+sigma 1_type opioid receptor
+sodium_dependent neutral amino acid transporter BAT1
+sodium_dependent amino acid transporter system B0
+solute carrier family 6 , member 19
+system B neutral amino acid transporter AT1
+system B0 neutral amino acid transporter
+sodium_ and chloride_dependent transporter XTRP3
+X transporter protein 3
+neurotransmitter transporter RB21A
+orphan transporter XT3
+sodium_dependent imino acid transporter 1
+sodium/imino_acid transporter 1
+solute carrier family 6 , member 20
+transporter rB21A homolog
+suppressor of cytokine signaling 1
+JAK binding protein
+STAT induced SH3 protein 1
+STAT_induced STAT inhibitor 1
+Tec_interacting protein 3
+cytokine_inducible SH2 protein 1
+suppressor of cytokine signaling 3
+STAT_induced STAT inhibitor 3
+cytokine_inducible SH2 protein 3
+extracellular superoxide dismutase [Cu_Zn]
+superoxide dismutase 3, extracellular
+testicular tissue protein Li 175
+sterol regulatory element_binding protein 2
+class D basic helix_loop_helix protein 2
+signal transducer and activator of transcription 1_alpha/beta
+signal transducer and activator of transcription 1, 91kD
+signal transducer and activator of transcription 1, 91kDa
+transcription factor ISGF_3 components p91/p84
+signal transducer and activator of transcription 3
+DNA_binding protein APRF
+acute_phase response factor
+stimulator of interferon genes protein
+N_terminal methionine_proline_tyrosine_serine plasma membrane tetraspanner
+endoplasmic reticulum IFN stimulator
+endoplasmic reticulum interferon stimulator
+mitochondrial mediator of IRF3 activation
+stimulator of interferon protein
+transmembrane protein 173
+taste receptor type 2 member 1
+taste receptor, family B, member 7
+taste receptor, type 2, member 1
+transforming growth factor beta_1 proprotein
+TGF_beta_1
+latency_associated peptide
+prepro_transforming growth factor beta_1
+transforming growth factor beta1
+toll_like receptor 4
+hToll
+homolog of Drosophila toll
+toll like receptor 4 protein
+toll_like receptor 7
+toll_like receptor 7_like
+transmembrane protease serine 2
+epitheliasin
+serine protease 10
+transmembrane protease, serine 2
+plasmic transmembrane protein X
+tumor necrosis factor
+APC1 protein
+TNF, macrophage_derived
+TNF, monocyte_derived
+TNF_a
+tumor necrosis factor ligand 1F
+tumor necrosis factor ligand superfamily member 2
+tumor necrosis factor_alpha
+tumor necrosis factor ligand superfamily member 14
+herpesvirus entry mediator ligand
+tumor necrosis factor superfamily, member 14
+tumor necrosis factor ligand 1D
+tumor necrosis factor superfamily member 14
+troponin I, slow skeletal muscle
+troponin I type 1
+troponin I, cardiac muscle
+cardiomyopathy, dilated 2A
+troponin I type 3
+troponin T, cardiac muscle
+cardiomyopathy, dilated 1D
+cardiomyopathy, hypertrophic 2
+troponin T type 2
+truncated cardiac troponin T
+transient receptor potential cation channel subfamily A member 1
+ankyrin_like with transmembrane domains 1
+transformation_sensitive protein p120
+wasabi receptor
+transient receptor potential cation channel subfamily V member 1
+OTRPC1
+capsaicin receptor
+osm_9_like TRP channel 1
+transient receptor potential vanilloid 1a
+transient receptor potential vanilloid 1b
+vanilloid receptor subtype 1
+transthyretin
+epididymis luminal protein 111
+prealbumin, amyloidosis type I
+thyroxine_binding prealbumin
+ubiquitin/ISG15_conjugating enzyme E2 L6
+E2 ubiquitin_conjugating enzyme L6
+retinoic acid induced gene B protein
+ubiquitin carrier protein L6
+ubiquitin conjugating enzyme E2L 6
+ubiquitin_protein ligase L6
+vitamin K epoxide reductase complex subunit 1
+phylloquinone epoxide reductase
+vitamin K dependent clotting factors deficiency 2
+vitamin K1 2,3_epoxide reductase subunit 1
+vitamin K1 epoxide reductase
+von Willebrand factor
+coagulation factor VIII VWF

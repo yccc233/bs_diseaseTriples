@@ -1,0 +1,778 @@
+acute abdomen
+abdominal pain
+abscess
+acidosis
+adenitis
+adrenal hyperfunction
+adrenal hypofunction
+affective symptoms
+agranulocytosis
+alexithymia
+alkalosis
+altitude stress
+amblyopia
+allergic reaction
+anemia of chronic disease
+angina pectoris
+anuria
+anxious
+apnea
+arrhythmia
+arteriovenous fistula
+arthralgia
+ascites
+weak
+favor
+ataxia
+avoidant personality disorder
+backache
+blush
+shortness of breath
+bruxism
+changes in the immune system
+cardiovascular disease
+thrombus
+new temperature trajectory
+cerebellar ataxia
+neck pain
+expectoration
+chest pain
+pleural pain
+cheyne stokes breathing
+child abuse
+chorioamnionitis
+coma
+communication barriers
+disturbance of consciousness
+constipation
+physical symptoms
+cough
+chronic cough
+death
+cross infection
+cyanosis
+dehydration
+delirium
+diarrhea
+dizzy
+dyskinesia syndrome
+indigestion
+dyspnea
+dystonia
+dysuria
+earache
+mood disorders
+mucosal eruption
+enuresis
+erection
+rash
+facial pain
+fatigue
+fetal growth retardation
+fever
+fever of unknown origin
+pathological fistula
+lumbago
+flatulence of intestines and stomach
+foot pain
+asthma
+goiter
+headache
+cardiac arrest
+heartburn
+hematemesis
+hematochezia
+hematuria
+hemiplegia
+hemoptysis
+hepatosplenomegaly
+inguinal hernia
+hernia
+abdominal hernia
+hoarseness
+hunger
+hyperalgesia
+over expansion
+hypersensitivity
+hyperglycemia
+hypernatremia
+hypertriglyceridemia
+hypocalcemia
+hyponatremia
+impulsive behavior
+inappropriate adh syndrome
+male infertility
+jaundice
+jaundice of the newborn
+lower limb pain
+lethargy
+leukocytosis
+leukopenia
+atresia syndrome
+lymphopenia
+masochism
+meconium aspiration syndrome
+mediastinal emphysema
+meningitis
+muscle spasm
+muscle rigidity
+mydriasis
+myoclonus
+narcissism
+nasal congestion
+nausea
+vomit
+avascular necrosis of bone
+tumors by location
+tumour
+neuralgia
+neutropenia
+night sweat
+nightmare
+tuberculosis
+numbness
+oliguria
+ophthalmoplegia
+orchitis
+postoperative pain
+paraplegia
+paresthesia
+pelvic pain
+pericardial effusion
+pharyngitis
+pneumothorax
+polyp
+posterior rhinorrhea
+pregnancy in diabetic patients
+pulmonary fibrosis
+retinal hemorrhage
+seasickness
+epileptic seizure
+sexual crime
+shoulder pain
+skin ulcer
+sleep disorders
+sneeze
+spasm
+stereotyped dyskinesia
+psychological pressure
+syncope
+testicular pain
+thrombocytopenia
+tinnitus
+tonic pupil
+toothache
+tremor
+conjoined twins
+erythema
+urinary fistula
+urticaria
+hemorrhagic vasculitis
+vertigo
+violence
+gasp for breath
+gestational diabetes mellitus
+cold
+cold and heat
+flaccid paralysis
+burning sensation
+incite
+apathy
+photophobia
+depressive symptoms
+emotional stress
+tired
+war neurosis
+withdrawal symptoms
+achilles tendon bursitis
+chronic pain
+muscle pain or weakness
+nausea or abdominal pain
+stiff neck
+ventricular premature beat
+hypomagnesemia
+perforation of large intestine
+muscle weakness
+hepatic necrosis
+bone pain
+retrosternal pain
+emphysema
+Mycoplasma pneumonia
+eye pain
+injection site pain
+xerosis cutis
+abnormal urination
+urinary retention *
+photoretinopathy
+renal colic
+toxic erythema
+acute peripheral vestibular disease
+sudden loss of vision
+photokeratitis
+old myocardial infarction
+acute cor pulmonale
+acute epiglottitis
+spontaneous tension pneumothorax
+anal effusion
+unexplained postpartum fever
+limb swelling
+vascular abnormalities
+joint stiffness
+pulmonary fibrosis after inflammation
+orofacial pain
+acute paroxysmal pain
+cancer
+family violence
+hyperammonemia
+swallowing pain
+paraplegia
+hypouricemia
+acrocyanosis
+follicular conjunctivitis
+heat effect
+oral pain
+early complications
+musculoskeletal symptoms
+hyperextension
+myalgia
+the discovery of pain perception dimension
+knee pain
+toe in
+abnormal respiratory system
+tiredness and dyspnea
+exhale and gasp
+nose symptoms
+lung blood drawing
+chest tightness
+loss of appetite
+abdominal discomfort
+epigastric pain
+halo sign
+coronation
+psychological symptoms
+mental symptoms
+disorientation
+feel desperate
+abnormal behavior
+misconduct
+antisocial behavior
+ritual coercion
+xenophobic psychology
+hallucination
+auditory hallucination
+memory loss
+maladaptive personality traits
+general weakness
+pain
+burning pain
+tenderness
+tissue pain
+movement tremor
+harsh sound quality
+mental deterioration
+head pressure
+feel nervous
+it feels strange
+feel cold
+difficulty sleeping
+acute mania
+social irresponsibility
+dry throat
+conjunctival congestion
+red eyes
+retinal injury
+stomach discomfort
+ketemia
+tenderness of renal horn
+chest discomfort
+ulcerative rhinitis
+scrotal pain
+gastrointestinal obstruction
+intracranial epidural abscess
+middle cerebral artery syndrome
+pseudomonas aeruginosa
+nucleus ambiguus hypoglossal syndrome
+intermittent diarrhea
+watery diarrhoea
+pulmonary tuberculosis
+viral pneumonia
+elbow pain
+runny nose
+severe eye pain
+remission fever
+genital pain
+groin pain
+hand pain
+frontal headache
+swollen lips
+metallic taste
+personality change
+prodromal symptoms
+left shoulder pain
+skin ecchymosis
+reduce phlegm
+difficulty in standing
+thigh pain
+toe pain
+general fatigue
+snoring and breathing
+pancreatitis
+acute edema
+sore throat
+positive pressure breathing
+multiple tumors
+gangrenous cholecystitis
+erythema protuberans diutinum
+odor in growing period
+bursal disorder
+acquired flatfoot
+blood stasis pneumonia
+pneumonia
+pleural thickening
+carotid artery occlusion
+acute pericardial effusion
+acute exudative pericarditis
+ischemic enteritis
+rupture of appendix
+quadriplegia
+swelling of ocular structure
+halo (disorder)
+glucose intolerance
+pneumocystis infection
+extreme exhaustion
+dyspnea
+abnormal mental state
+paresthesia
+dull pain
+hemifacial spasm
+solid tumors in children
+solid tumor
+cervical carcinoma
+to ache all over
+expressing emotions
+dry eye
+macular papule
+amputation structure
+morphological abnormality
+congenital defect
+transient edema
+orbital emphysema
+acute mastoiditis with neck abscess
+house dust mite allergy
+respiratory failure without hypercapnia
+early onset heart disease
+arterial ischemia
+lower limb ischemia
+micturition syncope
+arteriovenous fistula occlusion
+secondary anemia
+may_hegglin anomaly
+occlusive mesenteric ischemia
+pancreatic convergence
+hyperproteinemia
+erythema nodosum in leprosy
+siddy
+systemic cryptococcosis
+general abdominal pain
+depression
+right ventricular abnormalities
+disseminated malignant tumor
+stress related issues
+disseminated strongyliasis
+single organ dysfunction
+somatic illusion disorder
+endotoxemia
+diffuse inflammation
+influenza like symptoms
+a hangover after drinking
+uncinate process
+intermittent vomiting
+non organic urinary incontinence
+eosinophilic panniculitis
+protrusion of thoracic intervertebral disc
+domestic abuse
+symptom distribution
+otorhinolaryngological symptoms
+cns symptoms
+visual symptoms
+bilateral headache
+heartache
+right low back pain
+spinal pain
+inattention
+hyperactive behavior
+shoplifting
+sleep debt
+growth retardation
+stiff
+sigh and breathe
+urogenital symptoms
+urinary symptoms
+throat symptoms
+gastrointestinal symptoms
+motor symptoms
+facial paresis
+supraventricular arrhythmia
+chest pressure
+fatigue _ symptoms
+ileal duct stoma
+bilateral hilar adenosis
+transcortical sensory disturbance
+difficulty in finding words
+go blind
+eyelid dermatitis
+acute low back pain
+labor pain
+diarrhea and vomiting, symptoms
+itching all over the body
+cardiovascular symptoms
+respiratory distress
+gastrointestinal symptoms
+lymphadenopathy
+feel depressed
+dental abscess
+coombs negative hemolytic anemia
+platypus
+local pain
+pulmonary consolidation
+related symptoms
+association symbol
+stress symptoms
+relieve a cough
+acute chest pain
+illegal activities
+death anxiety
+phobia
+neurobehavioral manifestations
+get up early
+forgetful
+atrial tachycardia
+gastrointestinal discomfort
+alcohol problem
+out of humor
+allergic to eggs
+persistent cough
+right chest pain
+impulsive character
+left lower limb pain
+hypersensitivity to hydroxychloroquine
+azithromycin allergy
+increased dyspnea
+lower urinary tract symptoms
+ideological review
+skin symptoms
+exercise cough
+rupture of popliteal aneurysm
+cancer pain
+canceration
+cancer pain
+functional recovery
+tingling sensation
+emotional problems
+invasive carcinoma
+physical exhaustion
+physical symptoms
+gastrointestinal dysfunction
+personality problems
+psychomotor symptoms
+emotional outburst
+mental pain
+cardiac overload
+central nervous system metastasis
+alcoholic syncope
+throat irritation
+front synchronizer
+emotional abuse
+left side paralysis
+chronic back pain
+change of taste
+acute abdominal pain
+diffuse abdominal pain
+abdominal symptoms
+uncomplicated alcohol withdrawal
+physical pain
+intestinal ischemia
+cardiac events
+cardiac symptoms
+cerebellar sign
+acute dyspnea
+resting dyspnea
+retroorbital pain
+gingival infection
+persistent headache
+murderous
+general myasthenia
+neuromuscular weakness
+early pregnancy
+mental problems
+interstitial pulmonary edema
+lung involvement
+lung pathology
+acute respiratory decompensation
+acute respiratory distress syndrome
+acute respiratory distress
+viral rhinitis
+chronic shoulder pain
+upper respiratory symptoms
+generalized urticaria
+wound, unhealed
+appearance, body
+facial paralysis, lower motor neuron
+headache after epidural puncture
+amnesia
+intraocular pressure
+physical pain
+convulsions
+focal epilepsy
+syncopation
+anterior cervical pain
+convulsions
+neuromuscular manifestations
+urinary system manifestations
+heart problems
+localized malignant tumor
+kidney problems
+puzzled
+psychological distress
+fever with rash
+skin damage
+be entranced
+nasal pruritus
+dry cough
+cardiovascular problems
+digestion problems
+circulatory failure and shock
+hypertension
+pregnancy induced hypertension
+pregnancy induced hypertension related diseases
+acute polyneuropathy
+complete suicide
+respiratory failure
+the new coronavirus disease
+cancer pain
+eating disorder symptoms
+endothelial dysfunction
+infectious cervicitis
+root abscess
+left main artery disease
+post mi
+feel uncomfortable
+handshake
+persistent dry cough
+discomfort
+grandiose ideas
+excitable
+posterior inferior cerebellar artery occlusion
+infection in the elderly
+tinnitus worsens
+numbness of lower limbs
+it tastes sweet
+moist rale
+unrest
+general malaise
+pityriasis rosea
+erythema multiforme
+angioedema
+increased work of breathing
+sports addiction
+intravenous drug users
+anxiety symptoms
+children in hospital
+ill treatment
+psychotic symptoms
+sarcopenia
+enzyme inhibition disorder
+periorbital erythema
+gentle tongue
+insomnia
+impatience
+cytokine storm
+left ventricular dyskinesia
+gastrointestinal syndrome
+bleeding as a complication
+vasculitis
+viral pleurisy
+musculoskeletal discomfort
+transfusion related reactions
+liver damage
+dystonia
+breakdown
+peripheral arterial occlusion
+scleral edema
+mucosal rash
+biliary sepsis
+negative thoughts
+hemorrhagic pericarditis
+rhinorrhea
+morphological changes
+diffuse alveolar injury
+oropharyngeal hemorrhage
+hemorrhagic pericardial tamponade
+persistent infection
+tumor cell invasion
+red half moon nail in the treatment of congestive heart failure
+acute hand eczema
+cough with fever
+transfusion reaction caused by allergen in blood
+chronic mucositis
+right coronary artery occlusion
+drug induced injury
+epigastric discomfort
+vitamin a disorder
+urticaria vasculitis
+liver regeneration disorder
+abnormal deep breathing
+renal tubulitis
+postpartum fever
+a change in smell or taste
+kata
+hearing impairment
+cognitive change
+pressure zone
+loss of consciousness
+primary lesion
+third cranial nerve palsy
+sore skin
+severe diarrhea
+monofunctional kidney
+toxic conjunctivitis
+iatrogenic
+tumor related processes
+tumor immunity
+dysphonia
+trembling involuntarily
+immune mediated conjunctivitis
+child neglect behavior
+omental adnexitis
+alcohol relapse
+tumor process
+secondary headache disorder
+depression _ symptoms
+immunopathological findings
+portal vein gas
+joint myalgia
+procedural pain
+breast columnar cell changes
+indirect contact transmitted infection
+vasovagal response
+acute myopathy
+brainstem encephalitis
+acute alveolitis
+hydrochloroquine retinopathy
+extensively drug resistant tuberculosis
+lazy
+burst
+short stature obesity syndrome
+recurrent skin infection
+venous thromboembolism
+colchicine resistance
+bronchial wall thickening
+prepuce disease
+binocular blindness nos
+apparent death
+reflux
+tendinitis of right heel
+shit
+repetitive muscle twitch
+localized chest pain
+eyelid
+acute multiple radiculitis
+panic attacks and disorders
+it's tingling
+aggregation of red blood cells
+nerve decompensation
+suicidal intent
+upper respiratory tract infection
+respiratory fatigue
+impaired sense of smell
+overconfidence
+computer vision syndrome
+gastrointestinal irritation
+bronchial metaplasia
+fatigue after fatigue
+complex post traumatic stress disorder
+drowsiness
+hallucinogen related diseases
+acute exacerbation of bronchiectasis
+transtentorial hernia
+distributive shock
+ascending paresthesia
+bilateral pulmonary infiltration
+panic symptoms
+invasive cancer
+headache is serious
+mother has a fever
+continuous air leakage
+main symptoms
+non infective endocarditis
+watery eyes
+mesenteric insufficiency
+prodromal stage
+breakthrough attack
+non epileptic seizures
+unidentified visual loss
+neutrophilia
+obstructive shock
+acute flaccid limb paralysis
+weakness
+recurrent fever
+acute aortic syndrome
+portal fibrosis
+persistent immune thrombocytopenic purpura
+carcinoma of skull base
+urology nursing
+food allergy in children
+diarrhea in children
+abdominal pain in children
+intrapartum fever
+ovoid fat body
+severe acute respiratory infection
+necrotizing periodontitis
+restlessness
+vertigo symptoms
+gastrointestinal wall thickening
+peripheral arterial ischemia
+new or worsening symptoms
+concentration decrease
+laryngeal malformation
+phenotypic abnormality
+symptomatic epilepsy
+partial anosmia
+immunosuppression
+infectious keratitis
+disease anxiety
+obsession
+functional dyskinesia
+behavioral and psychological symptoms of dementia
+cleft lip
+subclinical fever
+depressed
+bladder wall thickening
+bilateral vertebral artery dissection
+bilateral carotid dissection
+icu delirium
+maintenance insomnia
+spontaneous intracranial hemorrhage
+acute insomnia
+post icu syndrome
+intentional tremor
+acute cardiac events
+network cartilage
+traumatic symptoms
+esotropia
+keep lens fragments
+lymph node necrosis
+enhancement of pia mater
+opioid overdose
+new onset refractory status epilepticus
+aortic arch malformation
+diabetic glomerulosclerosis
+cystic bronchiectasis
+hemorrhagic cholecystitis
+intestinal mucositis
+postpartum anxiety
+catastrophic response
+abnormal movement behavior
+nutritional deficiency
+unlimited potential of clonal hematopoiesis
+bronchitis

@@ -1,0 +1,795 @@
+ ABO:histo_blood group ABO system transferase:组织血型ABO系统转移酶
+ ABO:ABO blood group:ABO血型
+ ABO:B alpha_1,3_galactosyltransferase:Bα_1,3_半乳糖基转移酶
+ ABO:histo_blood group A2 transferase:组织血型A2转移酶
+ ACE:angiotensin_converting enzyme:血管紧张素转化酶
+ ACE:CD143 antigen:CD143抗原
+ ACE:angiotensin I converting enzyme 1:血管紧张素转化酶1
+ ACE:carboxycathepsin:羧组织蛋白酶
+ ACE:dipeptidyl carboxypeptidase 1:二肽基羧肽酶1
+ ACE:dipeptidyl carboxypeptidase I:二肽羧肽酶Ⅰ
+ ACE:kininase II:激肽酶Ⅱ
+ ACE:peptidase P:肽酶P
+ ACE2:angiotensin_converting enzyme 2:血管紧张素转化酶2
+ ACE2:ACE_related carboxypeptidase:血管紧张素转化酶相关羧肽酶
+ ACE2:angiotensin I converting enzyme 2:血管紧张素转化酶2
+ ACE2:angiotensin I converting enzyme 2:血管紧张素转化酶2
+ ACE2:angiotensin_converting enzyme homolog:血管紧张素转化酶同系物
+ ACE2:angiotensin_converting enzyme_related carboxypeptidase:血管紧张素转化酶相关羧肽酶
+ ACE2:metalloprotease MPROT15:金属蛋白酶MPROT15
+ ACE2:peptidyl_dipeptidase A:肽基二肽酶A
+ ACE2:truncated angiotensin converting enzyme 2:截断型血管紧张素转化酶2
+ Ace2:angiotensin_converting enzyme 2:血管紧张素转化酶2
+ Ace2:ACE_related carboxypeptidase:血管紧张素转化酶相关羧肽酶
+ Ace2:angiotensin I converting enzyme 2:血管紧张素转化酶2
+ Ace2:angiotensin I converting enzyme 2:血管紧张素转化酶2
+ Ace2:anigotensin_converting enzyme_related carboxypeptidase:anigotensin转化酶相关羧肽酶
+ Ace2:renal angiotensin_converting enzyme 2:肾血管紧张素转化酶2
+ ADAM17:disintegrin and metalloproteinase domain_containing protein 17:去整合素和含金属蛋白酶结构域的蛋白17
+ ADAM17:ADAM metallopeptidase domain 18:ADAM金属肽酶结构域18
+ ADAM17:TNF_alpha convertase:肿瘤坏死因子α转化酶
+ ADAM17:TNF_alpha convertase enzyme:肿瘤坏死因子α转化酶
+ ADAM17:TNF_alpha converting enzyme:肿瘤坏死因子_α转化酶
+ ADAM17:a disintegrin and metalloproteinase 17:去整合素和金属蛋白酶17
+ ADAM17:cartilage snake venom_like protease:软骨蛇毒样蛋白酶
+ ADAM17:snake venom_like protease:蛇毒样蛋白酶
+ ADAM17:tumor necrosis factor, alpha, converting enzyme:肿瘤坏死因子，α，转化酶
+ ADAMTS13:A disintegrin and metalloproteinase with thrombospondin motifs 13:具有血小板反应蛋白基序13的去整合素和金属蛋白酶
+ ADAMTS13:a disintegrin_like and metalloprotease with thrombospondin type 1 motif, 13:具有血小板反应蛋白1型基序的去整合素样金属蛋白酶，13
+ ADAMTS13:vWF_cleaving protease:vWF裂解蛋白酶
+ ADAMTS13:von Willebrand factor_cleaving protease:血管性血友病因子裂解蛋白酶
+ ADM:pro_adrenomedullin:肾上腺髓质素原
+ ADM:preproadrenomedullin:前体原
+ ADM:proadrenomedullin N_20 terminal peptide:肾上腺髓质素原N_20末端肽
+ AGER:advanced glycosylation end product_specific receptor:晚期糖基化终产物特异性受体
+ AGER:receptor for advanced glycation end_products variant 20:晚期糖基化终产物受体变异体20
+ AGT:angiotensinogen:血管紧张素原
+ AGT:alpha_1 antiproteinase, antitrypsin:抗胰蛋白酶
+ AGT:angiotensin I:血管紧张素I
+ AGT:angiotensin II:血管紧张素Ⅱ
+ AGT:fetal_liver predominant transporter 1:胎肝主要转运体1
+ AGT:pre_angiotensinogen:前血管紧张素原
+ AGT:serine proteinase inhibitor:丝氨酸蛋白酶抑制剂
+ AGT:serpin A8:塞尔平A8
+ AGT:serpin peptidase inhibitor, clade A, member 8:丝氨酸肽酶抑制剂，分支A，成员8
+ AKT1:RAC_alpha serine/threonine_protein kinase:α_丝氨酸/苏氨酸蛋白激酶
+ AKT1:AKT1m:AKT1m公司
+ AKT1:PKB alpha:PKBα
+ AKT1:RAC_PK_alpha:RAC PKα
+ AKT1:protein kinase B alpha:蛋白激酶Bα
+ AKT1:proto_oncogene c_Akt:原癌基因c_Akt
+ AKT1:rac protein kinase alpha:rac蛋白激酶α
+ AKT1:serine_threonine protein kinase:丝氨酸/苏氨酸蛋白激酶
+ AKT1:v_akt murine thymoma viral oncogene homolog 1:v_akt小鼠胸腺瘤病毒癌基因同源物1
+ AKT1:v_akt murine thymoma viral oncogene_like protein 1:v_akt小鼠胸腺瘤病毒癌基因样蛋白1
+ ALB:albumin:白蛋白
+ ALB:serum albumin:血清白蛋白
+ APOE:apolipoprotein E:载脂蛋白E
+ APOE:apolipoprotein E3:载脂蛋白E3
+ APOL1:apolipoprotein L1:载脂蛋白L1
+ APOL1:apolipoprotein L 1:载脂蛋白L 1
+ APOL1:apolipoprotein L1_B3:载脂蛋白L1_B3
+ AR:androgen receptor:雄激素受体
+ AR:dihydrotestosterone receptor:双氢睾酮受体
+ AR:nuclear receptor subfamily 3 group C member 4:核受体亚家族3 C组成员4
+ ATF4:cyclic AMP_dependent transcription factor ATF_4:环腺苷酸依赖性转录因子ATF_4
+ ATF4:DNA_binding protein TAXREB67:DNA结合蛋白TAXREB67
+ ATF4:cAMP response element_binding protein 2:cAMP反应元件结合蛋白2
+ ATF4:cAMP_dependent transcription factor ATF_4:cAMP依赖转录因子ATF_4
+ ATF4:cAMP_responsive element_binding protein 2:cAMP反应元件结合蛋白2
+ ATF4:cyclic AMP_responsive element_binding protein 2:环腺苷酸反应元件结合蛋白2
+ ATF4:tax_responsive enhancer element B67:税控增强器元件B67
+ ATF4:tax_responsive enhancer element_binding protein 67:税收应答增强子元件结合蛋白67
+ BSG:basigin:巴西金
+ BSG:OK blood group antigen:OK血型抗原
+ BSG:collagenase stimulatory factor:胶原酶刺激因子
+ BSG:extracellular matrix metalloproteinase inducer:细胞外基质金属蛋白酶诱导因子
+ BSG:hepatoma_associated antigen:肝癌相关抗原
+ BSG:leukocyte activation antigen M6:白细胞活化抗原M6
+ BSG:tumor cell_derived collagenase stimulatory factor:肿瘤细胞源性胶原酶刺激因子
+ BTK:tyrosine_protein kinase BTK:酪氨酸蛋白激酶
+ BTK:B_cell progenitor kinase:B细胞祖细胞激酶
+ BTK:Bruton agammaglobulinemia tyrosine kinase:布鲁顿无丙种球蛋白血症酪氨酸激酶
+ BTK:Bruton's tyrosine kinase:布鲁顿酪氨酸激酶
+ BTK:agammaglobulinaemia tyrosine kinase:无丙种球蛋白血症酪氨酸激酶
+ BTK:dominant_negative kinase_deficient Brutons tyrosine kinase:显性负性激酶缺陷型Brutons酪氨酸激酶
+ BTK:truncated Bruton agammaglobulinemia tyrosine kinase:截短的布鲁顿无丙种球蛋白血症酪氨酸激酶
+ C5:complement C5:补体C5
+ C5:C3 and PZP_like alpha_2_macroglobulin domain_containing protein 4:含蛋白4的C3和PZP样α_2巨球蛋白结构域
+ C5:C5a anaphylatoxin:C5a过敏毒素
+ C5:anaphylatoxin C5a analog:过敏毒素C5a类似物
+ C5:complement component 5:补体成分5
+ C5:prepro_C5:预聚物C5
+ C5AR1:C5a anaphylatoxin chemotactic receptor 1:C5a过敏毒素趋化受体1
+ C5AR1:C5a anaphylatoxin receptor:C5a过敏毒素受体
+ C5AR1:C5a ligand:C5a配体
+ C5AR1:C5a_R:C5a_R型
+ C5AR1:complement component 5a receptor 1:补体成分5a受体1
+ CALCA:calcitonin:降钙素
+ CALCA:calcitonin gene_related peptide 1:降钙素基因相关肽1
+ CALCA:alpha_type CGRP:α型降钙素基因相关肽
+ CALCA:calcitonin 1:降钙素1
+ CALCA:calcitonin gene_related peptide I:降钙素基因相关肽Ⅰ
+ CALCA:calcitonin/calcitonin_related polypeptide, alpha:降钙素/降钙素相关多肽
+ CALCA:katacalcin:卡他霉素
+ CAT:catalase:过氧化氢酶
+ CAT:epididymis secretory sperm binding protein:附睾分泌精子结合蛋白
+ CCL17:C_C motif chemokine 17:C_C基序趋化因子17
+ CCL17:CC chemokine TARC:趋化因子
+ CCL17:T cell_directed CC chemokine:T细胞导向的CC趋化因子
+ CCL17:chemokine ligand 17:趋化因子配体17
+ CCL17:small inducible cytokine subfamily A , member 17:小诱导细胞因子亚家族，成员17
+ CCL17:small_inducible cytokine A17:小诱导细胞因子A17
+ CCL17:thymus and activation_regulated chemokine:胸腺和活化调节的趋化因子
+ CCL2:C_C motif chemokine 2:C_C基序趋化因子2
+ CCL2:chemokine ligand 2:趋化因子配体2
+ CCL2:monocyte chemoattractant protein_1:单核细胞趋化蛋白_1
+ CCL2:monocyte chemotactic and activating factor:单核细胞趋化激活因子
+ CCL2:monocyte chemotactic protein 1:单核细胞趋化蛋白1
+ CCL2:monocyte secretory protein JE:单核细胞分泌蛋白
+ CCL2:small inducible cytokine A2:小诱导细胞因子A2
+ CCL2:small inducible cytokine subfamily A , member 2:小诱导细胞因子亚家族A，成员2
+ CCL2:small_inducible cytokine A2:小诱导细胞因子A2
+ CCL7:C_C motif chemokine 7:C_C基序趋化因子7
+ CCL7:chemokine ligand 7:趋化因子配体7
+ CCL7:monocyte chemoattractant protein 3:单核细胞趋化蛋白3
+ CCL7:monocyte chemotactic protein 3:单核细胞趋化蛋白3
+ CCL7:small inducible cytokine A7:小诱导细胞因子A7
+ CCL7:small_inducible cytokine A7:小诱导细胞因子A7
+ CCR5:C_C chemokine receptor type 5:趋化因子受体5型
+ CCR5:C_C motif chemokine receptor 5 A159A:C_C基序趋化因子受体5 A159A
+ CCR5:HIV_1 fusion coreceptor:HIV_1融合共受体
+ CCR5:chemokine receptor 5:趋化因子受体5
+ CCR5:chemokine receptor CCR5:趋化因子受体CCR5
+ CCR5:chemokine recptor CCR5 Delta32:趋化因子受体CCR5 Delta32
+ CCR5:chemr13:化学13
+ CCR9:C_C chemokine receptor type 9:趋化因子受体9型
+ CCR9:G protein_coupled receptor 28:G蛋白偶联受体28
+ CCR9:chemokine receptor 9:趋化因子受体9
+ CD14:monocyte differentiation antigen CD14:单核细胞分化抗原CD14
+ CD14:myeloid cell_specific leucine_rich glycoprotein:髓细胞特异性富含亮氨酸糖蛋白
+ CD163:scavenger receptor cysteine_rich type 1 protein M130:清道夫受体富含半胱氨酸的1型蛋白M130
+ CD163:hemoglobin scavenger receptor:血红蛋白清除剂受体
+ CD163:macrophage_associated antigen:巨噬细胞相关抗原
+ CD4:T_cell surface glycoprotein CD4:T细胞表面糖蛋白CD4
+ CD4:CD4 antigen:CD4抗原
+ CD4:CD4 receptor:CD4受体
+ CD4:T_cell surface antigen T4/Leu_3:T细胞表面抗原T4/Leu_3
+ CD8A:T_cell surface glycoprotein CD8 alpha chain:T细胞表面糖蛋白CD8α链
+ CD8A:CD8 antigen, alpha polypeptide:CD8抗原，α多肽
+ CD8A:Leu2 T_lymphocyte antigen:Leu2 T淋巴细胞抗原
+ CD8A:OKT8 T_cell antigen:OKT8 T细胞抗原
+ CD8A:T cell co_receptor:T细胞共受体
+ CD8A:T_cell antigen Leu2:T细胞抗原Leu2
+ CD8A:T_lymphocyte differentiation antigen T8/Leu_2:T淋巴细胞分化抗原T8/Leu_2
+ CD8A:T8 T_cell antigen:T8 T细胞抗原
+ CLEC4M:C_type lectin domain family 4 member M:C型凝集素结构域家族4成员M
+ CLEC4M:CD209 antigen_like protein 1:CD209抗原样蛋白1
+ CLEC4M:CD299 antigen:CD299抗原
+ CLEC4M:DC_SIGN_related protein:DC信号相关蛋白
+ CLEC4M:dendritic cell_specific ICAM_3_grabbing non_integrin 2:树突状细胞特异性ICAM_3非整合素2
+ CLEC4M:liver/lymph node_specific ICAM_3 grabbing non_integrin:肝/淋巴结特异性ICAM_3非整合素
+ CLEC4M:mannose binding C_type lectin DC_SIGNR:甘露糖结合C型凝集素DC_SIGNR
+ CRP:C_reactive protein:C反应蛋白
+ CRP:C_reactive protein, pentraxin_related:C_反应蛋白，戊聚糖相关
+ CRP:pentraxin 1:戊曲新1
+ CSF2:granulocyte_macrophage colony_stimulating factor:粒_巨噬细胞集落刺激因子
+ CSF2:colony stimulating factor 2:集落刺激因子2
+ CSF2:granulocyte macrophage_colony stimulating factor:粒_巨噬细胞集落刺激因子
+ CSF2:molgramostim:莫格拉莫斯蒂姆
+ CSF2:molgramostin:莫格拉莫辛
+ CSF2:sargramostim:萨格拉莫斯蒂姆
+ CTSL:procathepsin L:前胰蛋白酶L
+ CTSL:cathepsin L1:组织蛋白酶L1
+ CTSL:major excreted protein:主要排泄蛋白
+ CXCL10:C_X_C motif chemokine 10:C_X_C基序趋化因子10
+ CXCL10:10 kDa interferon gamma_induced protein:10kDa干扰素γ诱导蛋白
+ CXCL10:gamma IP10:γIP10
+ CXCL10:interferon_inducible cytokine IP_10:干扰素诱导细胞因子IP_10
+ CXCL10:protein 10 from interferon _induced cell line:干扰素诱导细胞株的蛋白10
+ CXCL10:small inducible cytokine subfamily B , member 10:小诱导细胞因子B亚家族，成员10
+ CXCL10:small_inducible cytokine B10:小诱导细胞因子B10
+ CXCL8:interleukin_8:白细胞介素_8
+ CXCL8:T_cell chemotactic factor:T细胞趋化因子
+ CXCL8:alveolar macrophage chemotactic factor I:肺泡巨噬细胞趋化因子Ⅰ
+ CXCL8:beta endothelial cell_derived neutrophil activating peptide:β_内皮细胞源性中性粒细胞激活肽
+ CXCL8:beta_thromboglobulin_like protein:β_血栓球蛋白样蛋白
+ CXCL8:chemokine ligand 8:趋化因子配体8
+ CXCL8:emoctakin:表情皮肤
+ CXCL8:granulocyte chemotactic protein 1:粒细胞趋化蛋白1
+ CXCL8:interleukin 8:白细胞介素8
+ CXCL8:lung giant cell carcinoma_derived chemotactic protein:肺巨细胞癌趋化蛋白
+ CXCL8:lymphocyte derived neutrophil activating peptide:淋巴细胞源性中性粒细胞活化肽
+ CXCL8:monocyte_derived neutrophil chemotactic factor:单核细胞源性中性粒细胞趋化因子
+ CXCL8:monocyte_derived neutrophil_activating peptide:单核细胞源性中性粒细胞激活肽
+ CXCL8:neutrophil_activating peptide 1:中性粒细胞活化肽1
+ CXCL8:small inducible cytokine subfamily B, member 8:小诱导细胞因子B亚家族，成员8
+ CXCL8:tumor necrosis factor_induced gene 1:肿瘤坏死因子诱导基因1
+ DPP4:dipeptidyl peptidase 4:二肽基肽酶4
+ DPP4:ADCP_2:ADCP_2型
+ DPP4:DPP IV:民进党IV
+ DPP4:Gly_Pro naphthylamidase:Gly_Pro_萘胺酶
+ DPP4:Post_proline dipeptidyl aminopeptidase IV:后脯氨酸二肽氨基肽酶IV
+ DPP4:T_cell activation antigen CD26:T细胞活化抗原CD26
+ DPP4:Xaa_Pro_dipeptidylaminopeptidase:Xaa前二肽氨基肽酶
+ DPP4:adenosine deaminase complexing protein 2:腺苷脱氨酶复合蛋白2
+ DPP4:dipeptidyl peptidase IV:二肽基肽酶IV
+ DPP4:dipeptidylpeptidase 4:二肽基肽酶4
+ DPP4:dipeptidylpeptidase IV:二肽基肽酶IV
+ E:envelope protein:包膜蛋白
+ EGFR:epidermal growth factor receptor:表皮生长因子受体
+ EGFR:avian erythroblastic leukemia viral oncogene homolog:禽红细胞白血病病毒癌基因同源物
+ EGFR:cell growth inhibiting protein 40:细胞生长抑制蛋白40
+ EGFR:cell proliferation_inducing protein 61:细胞增殖诱导蛋白61
+ EGFR:epidermal growth factor receptor tyrosine kinase domain:表皮生长因子受体酪氨酸激酶结构域
+ EGFR:erb_b2 receptor tyrosine kinase 1:erb_b2受体酪氨酸激酶1
+ EGFR:proto_oncogene c_ErbB_1:原癌基因c_ErbB_1
+ EGFR:receptor tyrosine_protein kinase erbB_1:受体酪氨酸蛋白激酶erbB_1
+ ELAVL2:ELAV_like protein 2:ELAV样蛋白2
+ ELAVL2:ELAV _like 2:类ELAV 2
+ ELAVL2:ELAV like neuron_specific RNA binding protein 2:类ELAV神经元特异性RNA结合蛋白2
+ ELAVL2:hu_antigen B:hu抗原B
+ ELAVL2:nervous system_specific RNA_binding protein Hel_N1:神经系统特异性RNA结合蛋白Hel_N1
+ ENPEP:glutamyl aminopeptidase:谷氨酰氨基肽酶
+ ENPEP:AP_A:AP_A公司
+ ENPEP:EAP:EAP公司
+ ENPEP:aminopeptidase A:氨肽酶A
+ ENPEP:differentiation antigen gp160:分化抗原gp160
+ ERG:transcriptional regulator ERG:转录调节因子
+ ERG:ERG, ETS transcription factor:ERG，ETS转录因子
+ ERG:FUS/ERG fusion protein:FUS/ERG融合蛋白
+ ERG:TMPRSS2/ERG fusion:TMPRSS2/ERG融合
+ ERG:erythroblast transformation_specific transcription factor ERG variant 10:红细胞转化特异性转录因子ERG变异体10
+ ERG:ets_related:ets相关
+ ERG:v_ets avian erythroblastosis virus E26 oncogene homolog:v_ets禽成红细胞增多症病毒E26癌基因同源物
+ ERG:v_ets avian erythroblastosis virus E26 oncogene related:v_ets禽成红细胞增多症病毒E26癌基因相关
+ ERG:v_ets erythroblastosis virus E26 oncogene homolog:v_ets成红细胞增多症病毒E26癌基因同源物
+ ERG:v_ets erythroblastosis virus E26 oncogene like:v_ets成红细胞增多症病毒E26癌基因样
+ F3:tissue factor:组织因子
+ F3:coagulation factor III:凝血因子Ⅲ
+ FAS:tumor necrosis factor receptor superfamily member 6:肿瘤坏死因子受体超家族成员6
+ FAS:APO_1 cell surface antigen:APO_1细胞表面抗原
+ FAS:CD95 antigen:CD95抗原
+ FAS:FASLG receptor:FASLG受体
+ FAS:Fas:财务会计
+ FAS:Fas AMA:法斯阿玛
+ FAS:TNF receptor superfamily member 6:肿瘤坏死因子受体超家族成员6
+ FAS:apoptosis antigen 1:凋亡抗原1
+ FAS:apoptosis signaling receptor FAS:凋亡信号受体FAS
+ FAS:apoptosis_mediating surface antigen FAS:细胞凋亡介导的表面抗原FAS
+ FAS:mutant tumor necrosis receptor superfamily member 6:突变型肿瘤坏死受体超家族成员6
+ FAS:tumor necrosis factor receptor superfamily, member 6:肿瘤坏死因子受体超家族，成员6
+ FCGR3A:low affinity immunoglobulin gamma Fc region receptor III_A:低亲和力免疫球蛋白γFc区受体III_A
+ FCGR3A:CD16a antigen:CD16a抗原
+ FCGR3A:Fc fragment of IgG, low affinity III, receptor for:IgG的Fc片段，低亲和力III，受体
+ FCGR3A:Fc fragment of IgG, low affinity IIIa, receptor:IgG的Fc片段，低亲和力IIIa，受体
+ FCGR3A:Fc gamma receptor III_A:Fcγ受体III_A
+ FCGR3A:Fc_gamma RIII_alpha:Fc伽玛射线IIα
+ FCGR3A:Fc_gamma receptor III_2:Fcγ受体Ⅲ_2
+ FCGR3A:Fc_gamma receptor IIIb:Fcγ受体IIIb
+ FCGR3A:FcgammaRIIIA:FcgammaRIIIA公司
+ FCGR3A:igG Fc receptor III_2:igG_Fc受体Ⅲ_2
+ FCGR3A:immunoglobulin G Fc receptor III:免疫球蛋白gfc受体Ⅲ
+ FCGR3A:low affinity immunoglobulin gamma receptor III_a Fc fragment:低亲和力免疫球蛋白γ受体Ⅲafc片段
+ FCGR3A:neutrophil_specific antigen NA:中性粒细胞特异性抗原NA
+ FNDC5:fibronectin type III domain_containing protein 5:含纤维连接蛋白Ⅲ结构域的蛋白质5
+ FNDC5:fibronectin type III repeat_containing protein 2:含纤维连接蛋白Ⅲ重复序列蛋白2
+ FPR1:fMet_Leu_Phe receptor:fMet_Leu_Phe受体
+ FPR1:N_formylpeptide chemoattractant receptor:N_甲酰肽趋化剂受体
+ FPR1:fMLP receptor:fMLP受体
+ FTL:ferritin light chain:铁蛋白轻链
+ FTL:epididymis secretory sperm binding protein:附睾分泌精子结合蛋白
+ FTL:ferritin L subunit:铁蛋白L亚单位
+ FTL:ferritin L_chain:铁蛋白L链
+ FTL:ferritin light polypeptide_like 3:铁蛋白轻多肽样3
+ FTL:ferritin, light polypeptide:铁蛋白，轻多肽
+ FURIN:furin:福林
+ FURIN:FES upstream region:FES上游区域
+ FURIN:dibasic processing enzyme:二元酸加工酶
+ FURIN:furin, membrane associated receptor protein:膜相关受体蛋白
+ FURIN:paired basic amino acid residue_cleaving enzyme:成对碱性氨基酸残基裂解酶
+ FURIN:proprotein convertase subtilisin/kexin 3:前蛋白转化酶枯草杆菌素/可新3
+ FURIN:proprotein convertase subtilisin/kexin type 3:前蛋白转化酶枯草杆菌素/可欣3型
+ FURIN:subtilisin_like proprotein convertase 1:枯草杆菌素样前蛋白转化酶1
+ GSTT1:glutathione S_transferase theta_1:谷胱甘肽S_转移酶θ_1
+ GSTT1:GST class_theta_1:商品及服务税θ_1类
+ GSTT1:glutathione transferase T1_1:谷胱甘肽转移酶T1_1
+ GZMA:granzyme A:颗粒酶A
+ GZMA:CTL tryptase:类胰蛋白酶
+ GZMA:Cytotoxic T_lymphocyte_associated serine esterase_3:细胞毒性T淋巴细胞相关丝氨酸酯酶_3
+ GZMA:Granzyme A:颗粒酶A
+ GZMA:HF:高频
+ GZMA:Hanukah factor serine protease):光明节因子（丝氨酸蛋白酶）
+ GZMA:cytotoxic T_lymphocyte proteinase 1:细胞毒性T淋巴细胞蛋白酶1
+ GZMA:fragmentin_1:碎片素_1
+ GZMA:granzyme 1:颗粒酶1
+ GZMA:h factor:h系数
+ HAVCR2:hepatitis A virus cellular receptor 2:甲型肝炎病毒细胞受体2
+ HAVCR2:T cell immunoglobulin mucin 3:T细胞免疫球蛋白粘蛋白3
+ HAVCR2:T_cell immunoglobulin and mucin domain_containing protein 3:T细胞免疫球蛋白和粘蛋白结构域蛋白3
+ HAVCR2:T_cell immunoglobulin mucin family member 3:T细胞免疫球蛋白粘蛋白家族成员3
+ HAVCR2:T_cell immunoglobulin mucin receptor 3:T细胞免疫球蛋白粘蛋白受体3
+ HAVCR2:T_cell membrane protein 3:T细胞膜蛋白3
+ HAVCR2:kidney injury molecule_3:肾损伤分子_3
+ HIF1A:hypoxia_inducible factor 1_alpha:缺氧诱导因子1_α
+ HIF1A:ARNT interacting protein:ARNT相互作用蛋白
+ HIF1A:PAS domain_containing protein 8:含PAS结构域的蛋白质8
+ HIF1A:basic_helix_loop_helix_PAS protein MOP1:碱性螺旋环螺旋PAS蛋白MOP1
+ HIF1A:class E basic helix_loop_helix protein 78:E类碱性螺旋环螺旋蛋白78
+ HIF1A:hypoxia inducible factor 1 alpha subunit:缺氧诱导因子1α亚单位
+ HIF1A:hypoxia inducible factor 1, alpha subunit:缺氧诱导因子1α亚单位
+ HIF1A:hypoxia_inducible factor1alpha:缺氧诱导因子1α
+ HIF1A:member of PAS protein 1:PAS蛋白1成员
+ HIF1A:member of PAS superfamily 1:PAS超家族成员1
+ HLA_A:HLA class I histocompatibility antigen, A alpha chain:HLAⅠ类组织相容性抗原，α链
+ HLA_A:HLA class I histocompatibility antigen, A_1 alpha chain:HLAⅠ类组织相容性抗原A_1α链
+ HLA_A:MHC class I antigen HLA_A heavy chain:MHCⅠ类抗原HLA_A重链
+ HLA_A:leukocyte antigen class I_A:白细胞抗原I_A类
+ HLA_B:major histocompatibility complex, class I, B:主要组织相容性复合体，I，B类
+ HLA_B:HLA class I antigen HLA_B:HLAⅠ类抗原HLA_B
+ HLA_B:HLA class I histocompatibility antigen, B alpha chain:HLAⅠ类组织相容性抗原Bα链
+ HLA_B:MHC HLA_B cell surface glycoprotein:MHC_HLA_B细胞表面糖蛋白
+ HLA_B:MHC HLA_B transmembrane glycoprotein:MHC_HLA_B跨膜糖蛋白
+ HLA_B:MHC class 1 antigen:MHC 1类抗原
+ HLA_B:MHC class I antigen HLA_B alpha chain:MHCⅠ类抗原HLA_Bα链
+ HLA_B:MHC class I antigen HLA_B heavy chain:MHCⅠ类抗原HLA_B重链
+ HLA_B:MHC class I antigen SHCHA:MHCⅠ类抗原SHCHA
+ HLA_B:MHC class I molecule:MHCⅠ类分子
+ HLA_B:leukocyte antigen class I_B:白细胞抗原I_B类
+ HLA_C:HLA class I histocompatibility antigen, C alpha chain:HLAⅠ类组织相容性抗原Cα链
+ HLA_C:HLA_C antigen:HLA_C抗原
+ HLA_C:MHC class I antigen heavy chain HLA_C:MHCⅠ类抗原重链HLA_C
+ HLA_C:human leukocyte antigen_C alpha chain:人白细胞抗原Cα链
+ HLA_C:major histocompatibility antigen HLA_C:主要组织相容性抗原HLA_C
+ HMGB1:high mobility group protein B1:高迁移率族蛋白B1
+ HMGB1:Amphoterin:神经轴突生长因子
+ HMGB1:Sulfoglucuronyl carbohydrate binding protein:磺基葡萄糖酰糖结合蛋白
+ HMGB1:high_mobility group protein 1:高迁移率族蛋白1
+ HMOX1:heme oxygenase 1:血红素加氧酶1
+ HMOX1:heat shock protein, 32_kD:热休克蛋白，32kd
+ HMOX1:heme oxygenase 1:血红素加氧酶1
+ HSPA5:endoplasmic reticulum chaperone BiP:内质网伴侣蛋白
+ HSPA5:78 kDa glucose_regulated protein:78kDa葡萄糖调节蛋白
+ HSPA5:HSP70 family protein 5:HSP70家族蛋白5
+ HSPA5:binding_immunoglobulin protein:结合免疫球蛋白
+ HSPA5:endoplasmic reticulum lumenal Ca_binding protein grp78:内质网管腔钙结合蛋白grp78
+ HSPA5:epididymis secretory sperm binding protein Li 89n:附睾分泌精子结合蛋白li89n
+ HSPA5:glucose_regulated protein, 78kDa:葡萄糖调节蛋白，78kDa
+ HSPA5:heat shock 70kDa protein 5:热休克70kDa蛋白5
+ HSPA5:heat shock protein 70 family protein 5:热休克蛋白70家族蛋白5
+ HSPA5:heat shock protein family A member 5:热休克蛋白家族A成员5
+ HSPA5:immunoglobulin heavy chain_binding protein:免疫球蛋白重链结合蛋白
+ IFIH1:interferon_induced helicase C domain_containing protein 1:干扰素诱导的含螺旋酶C结构域蛋白1
+ IFIH1:CADM_140 autoantigen:CADM_140自身抗原
+ IFIH1:DEAD/H box polypeptide:死盒多肽
+ IFIH1:RIG_I_like receptor 2:RIG_I样受体2
+ IFIH1:RNA helicase_DEAD box protein 116:RNA解旋酶死盒蛋白116
+ IFIH1:clinically amyopathic dermatomyositis autoantigen 140 kDa:临床肌病性皮肌炎自身抗原140 kDa
+ IFIH1:helicard:直升机
+ IFIH1:helicase with 2 CARD domains:具有2个卡结构域的解旋酶
+ IFIH1:melanoma differentiation_associated gene 5:黑色素瘤分化相关基因5
+ IFIH1:melanoma differentiation_associated protein 5:黑色素瘤分化相关蛋白5
+ IFIH1:murabutide down_regulated protein:胞壁肽下调蛋白
+ IFITM3:interferon_induced transmembrane protein 3:干扰素诱导的跨膜蛋白3
+ IFITM3:dispanin subfamily A member 2b:dispanin亚家族A成员2b
+ IFITM3:interferon_inducible protein 1_8U:干扰素诱导蛋白1_8U
+ IFNA1:interferon alpha_1/13:干扰素α_1/13
+ IFNA1:IFN_alpha_1/13:干扰素_α_1/13
+ IFNA1:interferon alpha 1b:干扰素α1b
+ IFNA1:interferon alpha_D:干扰素α_D
+ IFNA1:interferon_alpha1:干扰素α1
+ IFNA2:interferon alpha_2:干扰素α_2
+ IFNA2:alpha_2a interferon:α_2a干扰素
+ IFNA2:interferon alpha 2a:干扰素α2a
+ IFNA2:interferon alpha 2b:干扰素α2b
+ IFNA2:interferon alpha A:干扰素αA
+ IFNB1:interferon beta:干扰素β
+ IFNB1:fibroblast interferon:成纤维细胞干扰素
+ IFNB1:interferon, beta 1, fibroblast:干扰素，β1，成纤维细胞
+ IFNB1:interferon_beta:干扰素β
+ IFNG:interferon gamma:γ干扰素
+ IFNG:IFN_gamma:干扰素γ
+ IFNG:immune interferon:免疫干扰素
+ IL10:interleukin_10:白细胞介素_10
+ IL10:T_cell growth inhibitory factor:T细胞生长抑制因子
+ IL10:cytokine synthesis inhibitory factor:细胞因子合成抑制因子
+ IL18:interleukin_18:白细胞介素_18
+ IL18:IFN_gamma_inducing factor:干扰素γ诱导因子
+ IL18:IL_1 gamma:IL_1γ
+ IL18:iboctadekin:易卜拉德金
+ IL18:interleukin 18:白细胞介素18
+ IL18:interleukin_1 gamma:白细胞介素_1γ
+ IL1B:interleukin_1 beta:白细胞介素_1β
+ IL1B:IL_1 beta:IL_1β
+ IL1B:catabolin:分解代谢
+ IL1B:interleukin 1beta:白细胞介素1β
+ IL1B:preinterleukin 1 beta:白细胞介素1β前体
+ IL1B:pro_interleukin_1_beta:前白细胞介素_1_β
+ IL2RA:interleukin_2 receptor subunit alpha:白细胞介素_2受体α亚单位
+ IL2RA:IL_2 receptor subunit alpha:IL_2受体α亚单位
+ IL2RA:IL_2R subunit alpha:IL_2Rα亚单位
+ IL2RA:TAC antigen:TAC抗原
+ IL2RA:interleukin 2 receptor, alpha:白细胞介素2受体
+ IL4:interleukin_4:白细胞介素_4
+ IL4:B cell growth factor 1:B细胞生长因子1
+ IL4:B_cell stimulatory factor 1:B细胞刺激因子1
+ IL4:binetrakin:比涅特拉金
+ IL4:interleukin 4 variant 2:白细胞介素4变异体2
+ IL4:lymphocyte stimulatory factor 1:淋巴细胞刺激因子1
+ IL4:pitrakinra:皮特拉金拉
+ IL6:interleukin_6:白细胞介素_6
+ IL6:B_cell differentiation factor:B细胞分化因子
+ IL6:B_cell stimulatory factor 2:B细胞刺激因子2
+ IL6:CTL differentiation factor:CTL分化因子
+ IL6:hybridoma growth factor:杂交瘤生长因子
+ IL6:interferon beta_2:干扰素β_2
+ IL6:interleukin BSF_2:白细胞介素BSF_2
+ IL7:interleukin_7:白细胞介素_7
+ ITK:tyrosine_protein kinase ITK/TSK:酪氨酸蛋白激酶ITK/TSK
+ ITK:IL_2_inducible T_cell kinase:IL_2诱导型T细胞激酶
+ ITK:T_cell_specific kinase:T细胞特异性激酶
+ ITK:homolog of mouse T_cell itk/tsk:小鼠T细胞itk/tsk的同源物
+ ITK:interleukin_2_inducible T_cell kinase:白细胞介素_2诱导型T细胞激酶
+ ITK:kinase EMT:激酶EMT
+ ITK:tyrosine_protein kinase LYK:酪氨酸蛋白激酶
+ JAK1:tyrosine_protein kinase JAK1:酪氨酸蛋白激酶JAK1
+ KNG1:kininogen_1:激肽原_1
+ KNG1:alpha_2_thiol proteinase inhibitor:α_2_巯基蛋白酶抑制剂
+ KNG1:bradykinin:缓激肽
+ KNG1:fitzgerald factor:菲茨杰拉德因子
+ KNG1:high molecular weight kininogen:高分子量激肽原
+ KNG1:williams_Fitzgerald_Flaujeac factor:威廉姆斯·菲茨杰拉德·弗劳耶克因素
+ LAG3:lymphocyte activation gene 3 protein:淋巴细胞活化基因3蛋白
+ LAG3:lymphocyte_activation gene 3:淋巴细胞活化基因3
+ LCN2:neutrophil gelatinase_associated lipocalin:中性粒细胞明胶酶相关脂质沉积蛋白
+ LCN2:25 kDa alpha_2_microglobulin_related subunit of MMP_9:MMP_9的25kdaα_2微球蛋白相关亚单位
+ LCN2:migration_stimulating factor inhibitor:迁移刺激因子抑制剂
+ LCN2:oncogene 24p3:癌基因24p3
+ LCN2:siderocalin LCN2:侧罗卡林LCN2
+ LGALS3:galectin_3:半乳糖凝集素_3
+ LGALS3:35 kDa lectin:35kDa凝集素
+ LGALS3:IgE_binding protein:IgE结合蛋白
+ LGALS3:MAC_2 antigen:MAC_2抗原
+ LGALS3:advanced glycation end_product receptor 3:晚期糖基化终产物受体3
+ LGALS3:carbohydrate_binding protein 35:碳水化合物结合蛋白35
+ LGALS3:epididymis secretory sperm binding protein:附睾分泌精子结合蛋白
+ LGALS3:galactose_specific lectin 3:半乳糖特异性凝集素3
+ LGALS3:laminin_binding protein:层粘连蛋白结合蛋白
+ LGALS3:lectin L_29:凝集素L_29
+ LGALS3:lectin, galactoside_binding, soluble, 3:凝集素，半乳糖苷结合，可溶性，3
+ LOC117134593:ACE2 5' regulatory region:ACE2 5'调控区
+ LOC117134604:TMPRSS2 regulatory region N:TMPRSS2调控区N
+ LOC117134605:NKX3.1 binding site 1 in TMPRSS2 5' regulatory region:TMPRSS2 5'调控区NKX3.1结合位点1
+ LOC117134606:NKX3.1 binding site 2 in TMPRSS2 5' regulatory region:TMPRSS2 5'调控区NKX3.1结合位点2
+ LOC117134607:NKX3.1 binding site 4 in TMPRSS2 5' regulatory region:TMPRSS2 5'调控区NKX3.1结合位点4
+ LOC117134608:TMPRSS2 _13 kb AR_responsive enhancer:TMPRSS2_13kbar应答增强子
+ LOC117134608:TMPRSS2 B39 enhancer:TMPRSS2 B39增强子
+ LOC117134608:TMPRSS2 E1 enhancer:TMPRSS2 E1增强器
+ LOC117134611:TMPRSS2 E2 enhancer:TMPRSS2 E2增强子
+ LOC117135106:TMPRSS2 _60 kb AR_responsive enhancer:TMPRSS2_60kbar应答增强子
+ LOC117152610:DPP4 5' regulatory region:DPP4 5'调控区
+ LOC117204000:CD13/APN upstream promoter:CD13/APN上游启动子
+ LOC117204000:aminopeptidase N myeloid and fibroblast promoter:髓系和成纤维细胞氨基肽酶启动子
+ LOC117204001:CD13/APN downstream promoter:CD13/APN下游启动子
+ LOC117204001:aminopeptidase N intestinal epithelial promoter:氨基肽酶N肠上皮启动子
+ LOC117600004:cathepsin L promoter:组织蛋白酶L启动子
+ LOC118966792:MIRb_ACE2 retroelement_containing promoter:含MIRb_ACE2逆转录酶元件启动子
+ LOC119086083:CCR9 5' regulatory region:CCR9 5'监管区
+ LOC119230225:IFNAR1 5' regulatory region:IFNAR1 5'监管区
+ LOC119266102:IFNGR2 5' regulatory region:IFNGR2 5'调控区
+ LPA:apolipoprotein:载脂蛋白
+ LPA:antiangiogenic AK38 protein:抗血管生成AK38蛋白
+ LPA:apo:载脂蛋白
+ LPA:lipoprotein, Lp:脂蛋白
+ LPA:lp:有限合伙人
+ M:membrane glycoprotein:膜糖蛋白
+ MAF:transcription factor Maf:转录因子Maf
+ MAF:Avian musculoaponeurotic fibrosarcoma protooncogene:禽肌肉腱膜纤维肉瘤原癌基因
+ MAF:T lymphocyte c_maf long form:T淋巴细胞c_maf长型
+ MAF:c_maf proto_oncogene:c_maf原癌基因
+ MAF:proto_oncogene c_Maf:原癌基因c_Maf
+ MAF:v_maf avian musculoaponeurotic fibrosarcoma oncogene homolog:禽肌肉腱膜纤维肉瘤癌基因同源物
+ MAFB:transcription factor MafB:转录因子MafB
+ MAFB:Kreisler maf_related leucine zipper homolog:Kreisler_maf相关亮氨酸拉链同系物
+ MAFB:MAFB/Kreisler basic region/leucine zipper transcription factor:MAFB/Kreisler碱性区/亮氨酸拉链转录因子
+ MAFB:v_maf avian musculoaponeurotic fibrosarcoma oncogene homolog B:禽肌肉腱膜纤维肉瘤癌基因同源物B
+ MAS1:proto_oncogene Mas:原癌基因Mas
+ MAS1:MAS1 oncogene:MAS1癌基因
+ MAS1:Mas_related G protein_coupled receptor A:Mas相关G蛋白偶联受体A
+ MB:myoglobin:肌红蛋白
+ MIR146A:hsa_mir_146:hsa_mir_146型
+ MIR146A:hsa_mir_146a:hsa_mir_146a
+ MMP3:stromelysin_1:溶血素_1
+ MMP3:matrix metalloproteinase 3:基质金属蛋白酶3
+ MMP3:proteoglycanase:蛋白多糖酶
+ MMP3:transin_1:转运蛋白_1
+ MTHFR:methylenetetrahydrofolate reductase:亚甲基四氢叶酸还原酶
+ MTHFR:5,10_methylenetetrahydrofolate reductase:5,10_亚甲基四氢叶酸还原酶
+ MTHFR:methylenetetrahydrofolate reductase H):亚甲基四氢叶酸还原酶
+ MTOR:serine/threonine_protein kinase mTOR:丝氨酸/苏氨酸蛋白激酶mTOR
+ MTOR:FK506 binding protein 12_rapamycin associated protein 2:FK506结合蛋白12雷帕霉素相关蛋白2
+ MTOR:FK506_binding protein 12_rapamycin complex_associated protein 1:FK506结合蛋白12雷帕霉素复合物相关蛋白1
+ MTOR:FKBP_rapamycin associated protein:雷帕霉素相关蛋白
+ MTOR:FKBP12_rapamycin complex_associated protein 1:FKBP12雷帕霉素复合物相关蛋白1
+ MTOR:mammalian target of rapamycin:雷帕霉素的哺乳动物靶点
+ MTOR:mechanistic target of rapamycin:雷帕霉素的作用机制
+ MTOR:rapamycin and FKBP12 target 1:雷帕霉素和FKBP12靶点1
+ MTOR:rapamycin associated protein FRAP2:雷帕霉素相关蛋白FRAP2
+ MTOR:rapamycin target protein 1:雷帕霉素靶蛋白1
+ MUC1:mucin_1:黏蛋白_1
+ MUC1:H23 antigen:H23抗原
+ MUC1:breast carcinoma_associated antigen DF3:乳腺癌相关抗原DF3
+ MUC1:cancer antigen 15_3:癌抗原15_3
+ MUC1:carcinoma_associated mucin:癌相关粘蛋白
+ MUC1:episialin:会阴素
+ MUC1:krebs von den Lungen_6:伦根6号
+ MUC1:mucin 1, transmembrane:粘蛋白1，跨膜
+ MUC1:peanut_reactive urinary mucin:花生反应性尿粘蛋白
+ MUC1:polymorphic epithelial mucin:多形上皮粘蛋白
+ MUC1:tumor associated epithelial mucin:肿瘤相关上皮粘蛋白
+ MUC1:tumor_associated epithelial membrane antigen:肿瘤相关上皮膜抗原
+ MUC5AC:mucin_5AC:粘蛋白_5AC
+ MUC5AC:gastric mucin:胃粘蛋白
+ MUC5AC:lewis B blood group antigen:刘易斯B血型抗原
+ MUC5AC:major airway glycoprotein:主要气道糖蛋白
+ MUC5AC:mucin 5, subtypes A and C, tracheobronchial/gastric:粘蛋白5，A和C亚型，气管支气管/胃
+ MUC5AC:mucin 5AC, oligomeric mucus/gel_forming pseudogene:粘蛋白5AC，寡聚粘液/凝胶形成假基因
+ MUC5AC:mucin_5 subtype AC, tracheobronchial:粘蛋白_5 AC亚型，气管支气管
+ MUC5AC:tracheobronchial mucin:气管支气管粘蛋白
+ N:nucleocapsid phosphoprotein:核衣壳磷蛋白
+ NCAM1:neural cell adhesion molecule 1:神经细胞粘附分子1
+ NCAM1:antigen recognized by monoclonal antibody 5.1H11:单克隆抗体5.1H11识别的抗原
+ NCAM1:neural cell adhesion molecule, NCAM:神经细胞粘附分子
+ NFE2L2:nuclear factor erythroid 2_related factor 2:核因子红细胞2相关因子2
+ NFE2L2:nuclear factor erythroid_derived 2_like 2:核因子红细胞衍生2样2
+ NLRP3:NACHT, LRR and PYD domains_containing protein 3:含有蛋白质3的NACHT、LRR和PYD结构域
+ NLRP3:NACHT domain_, leucine_rich repeat_, and PYD_containing protein 3:含NACHT结构域、富含亮氨酸重复序列和PYD的蛋白质3
+ NLRP3:NACHT, LRR and PYD containing protein 3:含NACHT、LRR和PYD的蛋白质3
+ NLRP3:PYRIN_containing APAF1_like protein 1:含核苷的APAF1样蛋白1
+ NLRP3:caterpiller protein 1.1:儿茶蛋白1.1
+ NLRP3:cold autoinflammatory syndrome 1 protein:感冒自炎综合征1蛋白
+ NLRP3:cold_induced autoinflammatory syndrome 1 protein:冷致自体炎症综合征1蛋白
+ NLRP3:cryopyrin:冷嘧啶
+ NLRP3:cryopyrin, NACHT, LRR and PYD domains _ containing protein 3:含有cryopyrin，NACHT，LRR和PYD结构域的蛋白质3
+ NLRP3:deafness, autosomal dominant 34:耳聋，常染色体显性遗传34
+ NLRP3:nucleotide_binding oligomerization domain, leucine rich repeat and pyrin domain containing 3:核苷酸结合寡聚结构域、富含亮氨酸的重复序列和含有3
+ NOS3:nitric oxide synthase, endothelial:一氧化氮合酶，内皮
+ NOS3:EC_NOS:EC编号
+ NOS3:NOS type III:NOS类型III
+ NOS3:NOSIII:诺西
+ NOS3:cNOS:cNOS公司
+ NOS3:constitutive NOS:构成数
+ NOS3:endothelial NOS:内皮一氧化氮合酶
+ NOS3:nitric oxide synthase 3:一氧化氮合酶3
+ NOS3:nitric oxide synthase 3 transcript variant eNOS_delta20:一氧化氮合酶3转录变体eNOS_delta20
+ NOS3:nitric oxide synthase 3 transcript variant eNOS_delta20_21:一氧化氮合酶3转录变体eNOS_delta20_21
+ NOS3:nitric oxide synthase 3 transcript variant eNOS_delta21:一氧化氮合酶3转录变体eNOS_delta21
+ NPPB:natriuretic peptides B:利钠肽B
+ NPPB:brain natriuretic factor prohormone:脑钠素原
+ NPPB:brain type natriuretic peptide:脑型利钠肽
+ NPPB:gamma_brain natriuretic peptide:脑利钠肽
+ NPPB:natriuretic peptide precursor B:利钠肽前体B
+ NPPB:natriuretic protein:利钠素
+ NPPB:preproBNP:预处理
+ NPPB:proBNP:益生菌
+ NRP1:neuropilin_1:神经纤毛蛋白_1
+ NRP1:transmembrane receptor:跨膜受体
+ NRP1:vascular endothelial cell growth factor 165 receptor:血管内皮细胞生长因子165受体
+ ORF10:ORF10 protein:ORF10蛋白
+ ORF1ab:ORF1a polyprotein:ORF1a多蛋白
+ ORF1ab:ORF1ab polyprotein:ORF1ab多蛋白
+ ORF3a:ORF3a protein:ORF3a蛋白质
+ ORF6:ORF6 protein:ORF6蛋白
+ ORF7a:ORF7a protein:ORF7a蛋白
+ ORF7b:ORF7b:或F7B
+ ORF8:ORF8 protein:ORF8蛋白
+ P2RX7:P2X purinoceptor 7:P2X嘌呤受体7
+ P2RX7:ATP receptor:ATP受体
+ P2RX7:P2X7 receptor:P2X7受体
+ P2RX7:P2Z receptor:P2Z受体
+ P2RX7:purinergic receptor P2X, ligand gated ion channel, 7:嘌呤能受体P2X，配体门控离子通道，7
+ P2RX7:purinergic receptor P2X7 variant A:嘌呤能受体P2X7变异体A
+ P2RX7:purnergic receptor P2X 7:嘌呤能受体p2x7
+ P2RY14:P2Y purinoceptor 14:P2Y嘌呤受体14
+ P2RY14:G protein coupled receptor for UDP_glucose:UDP葡萄糖G蛋白偶联受体
+ P2RY14:G_protein coupled receptor 105:G蛋白偶联受体105
+ P2RY14:P2Y receptor:P2Y受体
+ P2RY14:P2Y14 receptor:P2Y14受体
+ P2RY14:UDP_glucose receptor:UDP葡萄糖受体
+ P2RY14:purinergic receptor P2Y, G_protein coupled, 14:嘌呤能受体P2Y，G蛋白偶联，14
+ PAFAH1B1:platelet_activating factor acetylhydrolase IB subunit beta:血小板活化因子乙酰水解酶IB亚单位β
+ PAFAH1B1:lissencephaly 1 protein:lissencephaly 1蛋白
+ PAFAH1B1:platelet_activating factor acetylhydrolase 1b, regulatory subunit 1:血小板活化因子乙酰水解酶1b，调节亚单位1
+ PARP14:protein mono_ADP_ribosyltransferase PARP14:蛋白质单ADP核糖基转移酶PARP14
+ PARP14:ADP_ribosyltransferase diphtheria toxin_like 8:ADP核糖基转移酶白喉毒素样8
+ PARP14:B_aggressive lymphoma 2:侵袭性淋巴瘤2
+ PARP14:b aggressive lymphoma protein 2:侵袭性淋巴瘤蛋白2
+ PARP14:collaborator of STAT6:STAT6合作者
+ PARP14:poly [ADP_ribose] polymerase 14:聚ADP核糖聚合酶14
+ PLAUR:urokinase plasminogen activator surface receptor:尿激酶纤溶酶原激活物表面受体
+ PLAUR:monocyte activation antigen Mo3:单核细胞活化抗原Mo3
+ PLAUR:u_plasminogen activator receptor form 2:纤溶酶原激活剂受体2型
+ PLAUR:urokinase_type plasminogen activator receptor:尿激酶型纤溶酶原激活剂受体
+ Pparg:peroxisome proliferator_activated receptor gamma:过氧化物酶体增殖物激活受体γ
+ Pparg:PPAR_gamma:PPARγ
+ Pparg:nuclear receptor subfamily 1 group C member 3:核受体亚家族1 C组成员3
+ Pparg:peroxisome proliferator activator receptor, gamma:过氧化物酶体增殖物激活物受体
+ PRF1:perforin_1:穿孔素_1
+ PRF1:cytolysin:溶细胞素
+ PRF1:lymphocyte pore_forming protein:淋巴细胞成孔蛋白
+ PRF1:perforin 1:穿孔素1
+ PTGDR2:prostaglandin D2 receptor 2:前列腺素D2受体2
+ PTGDR2:G_protein coupled receptor 44:G蛋白偶联受体44
+ PTGDR2:chemoattractant receptor homologous molecule expressed on T helper type 2 cells:辅助性T细胞表达的趋化受体同源分子
+ PTGDR2:chemoattractant receptor_homologous molecule expressed on TH2 cells:趋化因子受体同源分子在TH2细胞上的表达
+ PTGDR2:putative G_protein coupled receptor 44:推测的G蛋白偶联受体44
+ PTX3:pentraxin_related protein PTX3:五肽相关蛋白PTX3
+ PTX3:TNF alpha_induced protein 5:肿瘤坏死因子α诱导蛋白5
+ PTX3:long pentraxin 3:龙胆素3
+ PTX3:tumor necrosis factor alpha_induced protein 5:肿瘤坏死因子α诱导蛋白5
+ PTX3:tumor necrosis factor_inducible gene 14 protein:肿瘤坏死因子诱导基因14蛋白
+ PTX3:tumor necrosis factor_inducible protein TSG_14:肿瘤坏死因子诱导蛋白TSG_14
+ REN:renin:肾素
+ REN:angiotensin_forming enzyme:血管紧张素形成酶
+ REN:angiotensinogenase:血管紧张素酶
+ REN:renin precursor, renal:肾素前体，肾
+ S:surface glycoprotein:表面糖蛋白
+ S:spike glycoprotein:S蛋白
+ S100A8:protein S100_A8:蛋白质S100_A8
+ S100A8:calgranulin A:钙粒蛋白A
+ S100A8:calprotectin L1L subunit:钙卫蛋白L1L亚单位
+ S100A8:cystic fibrosis antigen:囊性纤维化抗原
+ S100A8:leukocyte L1 complex light chain:白细胞L1复合物轻链
+ S100A8:migration inhibitory factor_related protein 8:迁移抑制因子相关蛋白8
+ S100A8:urinary stone protein band A:尿结石蛋白A带
+ S100A9:protein S100_A9:蛋白质S100_A9
+ S100A9:MRP_14:物料需求计划_14
+ S100A9:calgranulin B:蛋白
+ S100A9:calprotectin L1H subunit:钙卫蛋白L1H亚单位
+ S100A9:leukocyte L1 complex heavy chain:白细胞L1复合物重链
+ S100A9:migration inhibitory factor_related protein 14:迁移抑制因子相关蛋白14
+ SERPINA1:alpha_1_antitrypsin:α_1_抗胰蛋白酶
+ SERPINA1:alpha_1 antitrypsin:α_1抗胰蛋白酶
+ SERPINA1:alpha_1 protease inhibitor:α_1蛋白酶抑制剂
+ SERPINA1:alpha_1_antiproteinase:α_1_抗蛋白酶
+ SERPINA1:alpha_1_antitrypsin short transcript variant 1C4:α_1_抗胰蛋白酶短转录变体1C4
+ SERPINA1:alpha_1_antitrypsin short transcript variant 1C5:α_1_抗胰蛋白酶短转录变体1C5
+ SERPINA1:epididymis secretory sperm binding protein:附睾分泌精子结合蛋白
+ SERPINA1:protease inhibitor 1 , alpha_1_antitrypsin:蛋白酶抑制剂1，α_1_抗胰蛋白酶
+ SERPINA1:serine proteinase inhibitor, clade A, member 1:丝氨酸蛋白酶抑制剂，分支A，成员1
+ SERPINA1:serpin A1:塞尔平A1
+ SERPINA1:serpin peptidase inhibitor clade A member 1:丝氨酸肽酶抑制剂分支A成员1
+ SERPINA1:serpin peptidase inhibitor clade A member 1:丝氨酸肽酶抑制剂分支A成员1
+ SERPINA1:serpin peptidase inhibitor, clade A , member 1:丝氨酸肽酶抑制剂，分支A，成员1
+ SERPINC1:antithrombin_III:抗凝血酶Ⅲ
+ SERPINC1:serine proteinase inhibitor, clade C , member 1:丝氨酸蛋白酶抑制剂，C分支，成员1
+ SERPINC1:serpin peptidase inhibitor clade C member 1:丝氨酸肽酶抑制剂C成员1
+ SERPINC1:serpin peptidase inhibitor, clade C , member 1:丝氨酸肽酶抑制剂，C分支，成员1
+ SERPING1:plasma protease C1 inhibitor:血浆蛋白酶C1抑制剂
+ SERPING1:C1 esterase inhibitor:C1酯酶抑制剂
+ SERPING1:C1_inhibiting factor:C1抑制因子
+ SERPING1:C1_inhibitor:C1抑制剂
+ SERPING1:complement component 1 inhibitor:补体成分1抑制剂
+ SERPING1:epididymis secretory sperm binding protein:附睾分泌精子结合蛋白
+ SERPING1:serine/cysteine proteinase inhibitor clade G member 1:丝氨酸/半胱氨酸蛋白酶抑制剂分支G成员1
+ SERPING1:serpin G1:丝氨酸蛋白酶G1
+ SERPING1:serpin peptidase inhibitor clade G member 1:丝氨酸肽酶抑制剂分支G成员1
+ SERPING1:serpin peptidase inhibitor, clade G , member 1:丝氨酸肽酶抑制剂，G分支，成员1
+ SIGMAR1:sigma non_opioid intracellular receptor 1:sigma非阿片样细胞内受体1
+ SIGMAR1:SR31747 binding protein 1:SR31747结合蛋白1
+ SIGMAR1:aging_associated gene 8 protein:衰老相关基因8蛋白
+ SIGMAR1:sigma 1_type opioid receptor:西格玛1型阿片受体
+ SLC6A19:sodium_dependent neutral amino acid transporter BAT1:钠依赖性中性氨基酸转运体BAT1
+ SLC6A19:sodium_dependent amino acid transporter system B0:钠依赖性氨基酸转运系统B0
+ SLC6A19:solute carrier family 6 , member 19:溶质载体家族6，成员19
+ SLC6A19:system B neutral amino acid transporter AT1:B系统中性氨基酸转运蛋白AT1
+ SLC6A19:system B0 neutral amino acid transporter:B0系统中性氨基酸转运体
+ SLC6A20:sodium_ and chloride_dependent transporter XTRP3:钠和氯依赖性转运体XTRP3
+ SLC6A20:X transporter protein 3:X转运蛋白3
+ SLC6A20:neurotransmitter transporter RB21A:神经递质转运体RB21A
+ SLC6A20:orphan transporter XT3:孤儿传送器XT3
+ SLC6A20:sodium_dependent imino acid transporter 1:钠依赖亚氨基酸转运体1
+ SLC6A20:sodium/imino_acid transporter 1:钠/亚氨基酸转运体1
+ SLC6A20:solute carrier family 6 , member 20:溶质载体家族6，成员20
+ SLC6A20:transporter rB21A homolog:转运蛋白rB21A同源物
+ SOCS1:suppressor of cytokine signaling 1:细胞因子信号抑制因子1
+ SOCS1:JAK binding protein:JAK结合蛋白
+ SOCS1:STAT induced SH3 protein 1:STAT诱导的SH3蛋白1
+ SOCS1:STAT_induced STAT inhibitor 1:STAT诱导的STAT抑制剂1
+ SOCS1:Tec_interacting protein 3:Tec相互作用蛋白3
+ SOCS1:cytokine_inducible SH2 protein 1:细胞因子诱导的SH2蛋白1
+ SOCS3:suppressor of cytokine signaling 3:细胞因子信号抑制因子3
+ SOCS3:STAT_induced STAT inhibitor 3:STAT诱导的STAT抑制剂3
+ SOCS3:cytokine_inducible SH2 protein 3:细胞因子诱导的SH2蛋白3
+ SOD3:extracellular superoxide dismutase [Cu_Zn]:细胞外超氧化物歧化酶
+ SOD3:superoxide dismutase 3, extracellular:超氧化物歧化酶3，细胞外
+ SOD3:testicular tissue protein Li 175:睾丸组织蛋白Li 175
+ SREBF2:sterol regulatory element_binding protein 2:甾醇调节元件结合蛋白2
+ SREBF2:class D basic helix_loop_helix protein 2:D类碱性螺旋环螺旋蛋白2
+ STAT1:signal transducer and activator of transcription 1_alpha/beta:信号转导和转录激活因子1_α/β
+ STAT1:signal transducer and activator of transcription 1, 91kD:信号转导和转录激活因子1，91kD
+ STAT1:signal transducer and activator of transcription 1, 91kDa:信号转导和转录激活因子191kDa
+ STAT1:transcription factor ISGF_3 components p91/p84:转录因子ISGF_3组分p91/p84
+ STAT3:signal transducer and activator of transcription 3:信号转导与转录激活因子3
+ STAT3:DNA_binding protein APRF:DNA结合蛋白
+ STAT3:acute_phase response factor:急性期反应因子
+ STING1:stimulator of interferon genes protein:干扰素基因蛋白刺激剂
+ STING1:N_terminal methionine_proline_tyrosine_serine plasma membrane tetraspanner:N_末端蛋氨酸脯氨酸酪氨酸丝氨酸质膜四扳手
+ STING1:endoplasmic reticulum IFN stimulator:内质网干扰素刺激因子
+ STING1:endoplasmic reticulum interferon stimulator:内质网干扰素刺激器
+ STING1:mitochondrial mediator of IRF3 activation:IRF3激活的线粒体介质
+ STING1:stimulator of interferon protein:干扰素蛋白刺激剂
+ STING1:transmembrane protein 173:跨膜蛋白173
+ TAS2R1:taste receptor type 2 member 1:味觉受体2型成员1
+ TAS2R1:taste receptor, family B, member 7:味觉感受器，家族B，成员7
+ TAS2R1:taste receptor, type 2, member 1:味觉感受器，2型，成员1
+ TGFB1:transforming growth factor beta_1 proprotein:转化生长因子β_1前蛋白
+ TGFB1:TGF_beta_1:转化生长因子_β_1
+ TGFB1:latency_associated peptide:潜伏期相关肽
+ TGFB1:prepro_transforming growth factor beta_1:前转化生长因子β_1
+ TGFB1:transforming growth factor beta1:转化生长因子β1
+ TLR4:toll_like receptor 4:toll样受体4
+ TLR4:hToll:托尔
+ TLR4:homolog of Drosophila toll:果蝇同系物
+ TLR4:toll like receptor 4 protein:toll样受体4蛋白
+ TLR7:toll_like receptor 7:toll样受体7
+ TLR7:toll_like receptor 7_like:toll样受体7样
+ TMPRSS2:transmembrane protease serine 2:跨膜蛋白酶丝氨酸2
+ TMPRSS2:epitheliasin:上皮蛋白
+ TMPRSS2:serine protease 10:丝氨酸蛋白酶10
+ TMPRSS2:transmembrane protease, serine 2:跨膜蛋白酶，丝氨酸2
+ Tmprss2:transmembrane protease serine 2:跨膜蛋白酶丝氨酸2
+ Tmprss2:epitheliasin:上皮蛋白
+ Tmprss2:plasmic transmembrane protein X:胞质跨膜蛋白X
+ Tmprss2:transmembrane protease, serine 2:跨膜蛋白酶，丝氨酸2
+ TNF:tumor necrosis factor:肿瘤坏死因子
+ TNF:APC1 protein:APC1蛋白
+ TNF:TNF, macrophage_derived:肿瘤坏死因子，巨噬细胞源性
+ TNF:TNF, monocyte_derived:TNF，单核细胞衍生
+ TNF:TNF_a:肿瘤坏死因子
+ TNF:tumor necrosis factor ligand 1F:肿瘤坏死因子配体1F
+ TNF:tumor necrosis factor ligand superfamily member 2:肿瘤坏死因子配体超家族成员2
+ TNF:tumor necrosis factor_alpha:肿瘤坏死因子α
+ TNFSF14:tumor necrosis factor ligand superfamily member 14:肿瘤坏死因子配体超家族成员14
+ TNFSF14:herpesvirus entry mediator ligand:疱疹病毒进入介体配体
+ TNFSF14:tumor necrosis factor superfamily, member 14:肿瘤坏死因子超家族，成员14
+ TNFSF14:tumor necrosis factor ligand 1D:肿瘤坏死因子配体1D
+ TNFSF14:tumor necrosis factor superfamily member 14:肿瘤坏死因子超家族成员14
+ TNNI1:troponin I, slow skeletal muscle:肌钙蛋白I，慢骨骼肌
+ TNNI1:troponin I type 1:肌钙蛋白Ⅰ1型
+ TNNI3:troponin I, cardiac muscle:肌钙蛋白I，心肌
+ TNNI3:cardiomyopathy, dilated 2A:心肌病，扩张型
+ TNNI3:troponin I type 3:肌钙蛋白I 3型
+ TNNT2:troponin T, cardiac muscle:肌钙蛋白T，心肌
+ TNNT2:cardiomyopathy, dilated 1D:心肌病，扩张1D
+ TNNT2:cardiomyopathy, hypertrophic 2:心肌病，肥厚型2
+ TNNT2:troponin T type 2:肌钙蛋白T 2型
+ TNNT2:truncated cardiac troponin T:截短的心肌肌钙蛋白T
+ TRPA1:transient receptor potential cation channel subfamily A member 1:瞬时受体电位阳离子通道亚家族A成员1
+ TRPA1:ankyrin_like with transmembrane domains 1:类锚蛋白跨膜结构域1
+ TRPA1:transformation_sensitive protein p120:转化敏感蛋白p120
+ TRPA1:wasabi receptor:芥末受体
+ TRPV1:transient receptor potential cation channel subfamily V member 1:瞬时受体电位阳离子通道亚家族V成员1
+ TRPV1:OTRPC1:OTRPC1公司
+ TRPV1:capsaicin receptor:辣椒素受体
+ TRPV1:osm_9_like TRP channel 1:osm_9类TRP通道1
+ TRPV1:transient receptor potential vanilloid 1a:瞬时受体电位香草醛1a
+ TRPV1:transient receptor potential vanilloid 1b:瞬时受体电位香草醛1b
+ TRPV1:vanilloid receptor subtype 1:香草醛受体亚型1
+ TTR:transthyretin:甲状腺素
+ TTR:epididymis luminal protein 111:附睾管腔蛋白111
+ TTR:prealbumin, amyloidosis type I:前白蛋白，淀粉样变Ⅰ型
+ TTR:thyroxine_binding prealbumin:甲状腺素结合前白蛋白
+ UBE2L6:ubiquitin/ISG15_conjugating enzyme E2 L6:泛素/ISG15结合酶E2 L6
+ UBE2L6:E2 ubiquitin_conjugating enzyme L6:E2泛素结合酶L6
+ UBE2L6:retinoic acid induced gene B protein:维甲酸诱导基因B蛋白
+ UBE2L6:ubiquitin carrier protein L6:泛素载体蛋白L6
+ UBE2L6:ubiquitin conjugating enzyme E2L 6:泛素结合酶E2L 6
+ UBE2L6:ubiquitin_protein ligase L6:泛素蛋白连接酶L6
+ VKORC1:vitamin K epoxide reductase complex subunit 1:维生素K环氧化物还原酶复合物亚单位1
+ VKORC1:phylloquinone epoxide reductase:叶醌环氧还原酶
+ VKORC1:vitamin K dependent clotting factors deficiency 2:维生素K依赖性凝血因子缺乏症2
+ VKORC1:vitamin K1 2,3_epoxide reductase subunit 1:维生素K1 2,3_环氧化物还原酶亚单位1
+ VKORC1:vitamin K1 epoxide reductase:维生素K1环氧化物还原酶
+ VWF:von Willebrand factor:血管性血友病因子
+ VWF:coagulation factor VIII VWF:凝血因子VIII VWF
